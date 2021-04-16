@@ -1,0 +1,9 @@
+.venv
+venv
+.vscode
+*.apkg
+*/__pycache__
+utils/script_output
+utils/input
+media_output/
+data/*/sound

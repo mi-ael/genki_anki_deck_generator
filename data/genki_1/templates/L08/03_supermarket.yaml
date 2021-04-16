@@ -1,0 +1,38 @@
+sound_file:
+uid: 693904702
+cards:
+- category: supermarket
+  vocabulary:
+  - japanese: いさご
+    english: strawberry
+  - japanese: すいか
+    english: watermelon
+  - japanese: みかん
+    english: mandarin orange
+  - japanese: りんご
+    english: apple
+  - japanese: もも
+    english: peach
+  - japanese: ぶどう
+    english: grape
+  - japanese: にんじん
+    english: carrot
+  - japanese: たまねぎ
+    english: onion
+  - japanese: じゃがいも
+    english: potato
+  - japanese: なす
+    english: eggplant
+  - japanese: きゅうり
+    english: cucumber
+  - japanese: キャベツ
+    english: cabbage
+  - japanese: ぎゅうにく
+    english: beef
+    kanji: 牛肉
+  - japanese: ぶたにく
+    english: pork
+    kanji: 豚肉
+  - japanese: とりにく
+    english: chicken
+    kanji: 鶏肉

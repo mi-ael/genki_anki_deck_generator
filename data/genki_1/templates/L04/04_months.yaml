@@ -1,0 +1,41 @@
+sound_file:
+uid: 693904304
+cards:
+- category: Months
+  vocabulary:
+    - japanese: いちがつ
+      english: January
+      kanji: 一月
+    - japanese: にがつ
+      english: February
+      kanji: 二月
+    - japanese: さんがつ
+      english: March
+      kanji: 三月
+    - japanese: しがつ*
+      english: April
+      kanji: 四月
+    - japanese: ごがつ
+      english: May
+      kanji: 五月
+    - japanese: ろくがつ
+      english: June
+      kanji: 六月
+    - japanese: しちがつ*
+      english: July
+      kanji: 七月
+    - japanese: はちがつ
+      english: August
+      kanji: 八月
+    - japanese: くがつ*
+      english: September
+      kanji: 九月
+    - japanese: じゅうがつ
+      english: October
+      kanji: 十月
+    - japanese: じゅういちがつ
+      english: November
+      kanji: 十一月
+    - japanese: じゅうにがつ
+      english: December
+      kanji: 十二月

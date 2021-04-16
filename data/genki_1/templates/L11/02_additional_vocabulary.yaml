@@ -1,0 +1,51 @@
+sound_file: Kaiwa_Bunpo_L11/K11_09.mp3
+skip_with_new_category: false
+skip_on_beginning: 1
+skip_on_semikolon: true
+uid: 693905001
+sound_silence_threshold: 600
+cards:
+- category: Occupations
+  vocabulary:
+  - japanese: しょくぎょう
+    english: Occupations
+    kanji: 職業
+  - japanese: さっか
+    english: writer
+    kanji: 作家
+  - japanese: ジャーナリスト
+    english: journalist
+    kanji: ''
+  - japanese: けいさつかん
+    english: police officer
+    kanji: 警察官
+  - japanese: しょうぼうし
+    english: firefighter
+    kanji: 消防士
+  - japanese: きょうし
+    english: schoolteacher
+    kanji: 教師
+  - japanese: けんきゅうしゃ
+    english: researcher
+    kanji: 研究者
+  - japanese: うちゅうひこうし
+    english: astronaut
+    kanji: 宇宙飛行士
+  - japanese: スポーツせんしゅ
+    english: athlete
+    kanji: スポーツ選手
+  - japanese: だいとうりょう
+    english: president of a country
+    kanji: 大統領
+  - japanese: はいゆう
+    english: actor; actress
+    kanji: 俳優
+  - japanese: かんごし
+    english: nurse
+    kanji: 看護師
+  - japanese: シェフ
+    english: chef
+    kanji: ''
+  - japanese: まんがか
+    english: cartoonist
+    kanji: 漫画家

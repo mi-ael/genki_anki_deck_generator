@@ -1,0 +1,189 @@
+sound_file: Kaiwa_Bunpo_L08/K08_05.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904700
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: はれ
+    english: sunny weather
+    kanji: 晴れ
+  - japanese: あめ
+    english: rain
+    kanji: 雨
+  - japanese: くもり
+    english: cloudy weather
+    kanji: 曇り
+  - japanese: ゆき
+    english: snow
+    kanji: 雪
+  - japanese: てんきよほう
+    english: weather forecast
+    kanji: 天気予報
+  - japanese: きおん
+    english: temperature (weather - not used for things)
+    kanji: 気温
+  - japanese: なつ
+    english: summer
+    kanji: 夏
+  - japanese: ふゆ
+    english: winter
+    kanji: 冬
+  - japanese: けさ
+    english: this morning
+    kanji: 今朝
+  - japanese: まいしゅう
+    english: every week
+    kanji: 毎週
+  - japanese: あさって
+    english: the day after tomorrow
+    kanji: ''
+  - japanese: しごと
+    english: job; work; occupation
+    kanji: 仕事
+  - japanese: こんげつ
+    english: this month
+    kanji: 今月
+  - japanese: らいげつ
+    english: next month
+    kanji: 来月
+  - japanese: かいしゃいん
+    english: office worker
+    kanji: 会社員
+  - japanese: カメラ
+    english: camera
+    kanji: ''
+  - japanese: カラオケ
+    english: karaoke
+    kanji: ''
+  - japanese: ところ
+    english: place
+    kanji: 所
+  - japanese: トマト
+    english: tomato
+    kanji: ''
+  - japanese: はし
+    english: chopsticks
+    kanji: ''
+  - japanese: パーティー
+    english: party
+    kanji: ''
+  - japanese: バーベキュー
+    english: barbecue
+    kanji: ''
+  - japanese: ホームステイ
+    english: homestay; living with a local family
+    kanji: ''
+  - japanese: おふろ
+    english: bath
+    kanji: お風呂
+  - japanese: スペイン
+    english: Spain
+    kanji: ''
+  - japanese: なにか
+    english: something
+    kanji: 何か
+- category: な-adjectives
+  vocabulary:
+  - japanese: じょうず（な）
+    english: skillful; good at ... (〜が)
+    kanji: 上手
+  - japanese: へた（な）
+    english: clumsy; poor at ... (〜が)
+    kanji: 下手
+  - japanese: ゆうめい（な）
+    english: famous
+    kanji: 有名
+- category: U-verbs
+  vocabulary:
+  - japanese: あらう
+    english: to wash (〜を)
+    kanji: 洗う
+  - japanese: いう
+    english: to say
+    kanji: 言う
+  - japanese: いる
+    english: to need (〜が)
+    kanji: ''
+  - japanese: おそくなる
+    english: to be late
+    kanji: 遅くなる
+  - japanese: おふろにはいる
+    english: to take a bath
+    kanji: お風呂に入る
+  - japanese: おもう
+    english: to think
+    kanji: 思う
+  - japanese: きる
+    english: to cut (〜を)
+    kanji: 切る
+  - japanese: つくる
+    english: to make (〜を)
+    kanji: 作る
+  - japanese: （あめ／ゆきが）ふる
+    english: (rain/snow) falls
+    kanji: （雨／雪が）降る
+  - japanese: もっていく
+    english: to take (a thing) (〜を)
+    kanji: 持っていく
+- category: Ru-verbs
+  vocabulary:
+  - japanese: すてる
+    english: to throw away (〜を)
+    kanji: 捨てる
+  - japanese: はじめる
+    english: to begin (〜を)
+    kanji: 始める
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: うんてんする
+    english: to drive (〜を)
+    kanji: 運転する
+  - japanese: せんたくする
+    english: to do laundry (〜を)
+    kanji: 洗濯する
+  - japanese: そうじする
+    english: to clean (〜を)
+    kanji: 掃除する
+  - japanese: りょうりする
+    english: to cook
+    kanji: 料理する
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: うん
+    english: uh-huh; yes
+    kanji: ''
+  - japanese: ううん
+    english: uh-uh; no
+    kanji: ''
+  - japanese: いつも
+    english: always
+    kanji: ''
+  - japanese: おそく
+    english: (do something) late
+    kanji: 遅く
+  - japanese: かんぱい
+    english: Cheers! (a toast)
+    kanji: 乾杯
+  - japanese: みんなで
+    english: all (of the people) together
+    kanji: ''
+  - japanese: ざんねん（ですね）
+    english: That's too bad.
+    kanji: 残念（ですね）
+  - japanese: まだ + negative
+    english: not ... yet
+    kanji: ''
+    skip_on_semikolon: 1
+  - japanese: 〜について
+    english: about ...; concerning ...
+    kanji: ''
+  - japanese: 〜ど
+    english: '... degrees (temperature)'
+    kanji: 〜度
+  - japanese: どう
+    english: how
+    kanji: ''

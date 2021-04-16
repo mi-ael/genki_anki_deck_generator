@@ -1,0 +1,92 @@
+sound_file: Kaiwa_Bunpo_L02/K02_07.mp3
+skip_words: []
+skip_on_beginning: 3
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904101
+sound_silence_threshold: 400
+cards:
+- category: Numbers
+  vocabulary:
+  - japanese: ひゃく
+    english: '100'
+    kanji: 百
+  - japanese: にひゃく
+    english: '200'
+    kanji: 二百
+  - japanese: さんびゃく*
+    english: '300'
+    kanji: 三百
+  - japanese: よんひゃく
+    english: '400'
+    kanji: 四百
+  - japanese: ごひゃく
+    english: '500'
+    kanji: 五百
+  - japanese: ろっぴゃく*
+    english: '600'
+    kanji: 六百
+  - japanese: ななひゃく
+    english: '700'
+    kanji: 七百
+  - japanese: はっぴゃく*
+    english: '800'
+    kanji: 八百
+  - japanese: きゅうひゃく
+    english: '900'
+    kanji: 九百
+  - japanese: せん
+    english: '1000'
+    kanji: 千
+  - japanese: にせん
+    english: '2000'
+    kanji: 二千
+  - japanese: さんぜん*
+    english: '3000'
+    kanji: 三千
+  - japanese: よんせん
+    english: '4000'
+    kanji: 四千
+  - japanese: ごせん
+    english: '5000'
+    kanji: 五千
+  - japanese: ろくせん
+    english: '6000'
+    kanji: 六千
+  - japanese: ななせん
+    english: '7000'
+    kanji: 七千
+  - japanese: はっせん*
+    english: '8000'
+    kanji: 八千
+  - japanese: きゅうせん
+    english: '9000'
+    kanji: 九千
+  - japanese: いちまん*
+    english: '10000'
+    kanji: 一万
+  - japanese: にまん
+    english: '20000'
+    kanji: 二万
+  - japanese: さんまん
+    english: '30000'
+    kanji: 三万
+  - japanese: よんまん
+    english: '40000'
+    kanji: 四万
+  - japanese: ごまん
+    english: '50000'
+    kanji: 五万
+  - japanese: ろくまん
+    english: '60000'
+    kanji: 六万
+  - japanese: ななまん
+    english: '70000'
+    kanji: 七万
+  - japanese: はちまん
+    english: '80000'
+    kanji: 八万
+  - japanese: きゅうまん
+    english: '90000'
+    kanji: 九万
+only_japanese: 1

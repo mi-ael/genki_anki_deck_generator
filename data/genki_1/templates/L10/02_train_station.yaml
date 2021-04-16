@@ -1,0 +1,118 @@
+sound_file:
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904901
+sound_silence_threshold: 600
+cards:
+- category: Useful_Expressions
+  vocabulary:
+  - japanese: ふつう
+    english: local (train)
+    kanjis: 普通
+  - japanese: きゅうこう
+    english: express (train)
+    kanjis: 急行
+  - japanese: とっきゅう
+    english: super express (train)
+    kanjis: 特急
+  - japanese: 〜いき
+    english: bound for ...
+    kanjis: 〜行き
+  - japanese: 〜ほうめん
+    english: serving ... areas
+    kanjis: 〜方面
+  - japanese: じょうしゃけん
+    english: (boarding) ticket
+    kanjis: 乗車券
+  - japanese: ていきけん
+    english: commuter's pass
+    kanjis: 定期券
+  - japanese: がくわり
+    english: student discount
+    kanjis: 学割
+  - japanese: していせき
+    english: reserved seat
+    kanjis: 指定席
+  - japanese: こうつうけいアイシーカード
+    english: rechargeable card such as Suica, Icoca, Pasmo, etc.
+    kanjis: 交通系ICカード
+  - japanese: じゆうせき
+    english: general admission seat
+    kanjis: 自由席
+  - japanese: いちごうしゃ
+    english: Car No. 1
+    kanjis: 一号車
+  - japanese: おうふく
+    english: round trip
+    kanjis: 往復
+  - japanese: かたみち
+    english: one way
+    kanjis: 片道
+  - japanese: 〜ばんせん
+    english: track number ...
+    kanjis: 〜番線
+  - japanese: きっぷうりば
+    english: ticket vending area
+    kanjis: 切符売り場
+  - japanese: かいさつ
+    english: gate
+    kanjis: 改札
+  - japanese: ホーム
+    english: platform
+    kanjis: ''
+  - japanese: ばいてん
+    english: shop; stand
+    kanjis: 売店
+  - japanese: でぐち
+    english: exit
+    kanjis: 出口
+  - japanese: いりぐち
+    english: entrance
+    kanjis: 入口
+  - japanese: かいだん
+    english: stairs
+    kanjis: 階段
+  - japanese: のりかえ
+    english: transfer
+    kanjis: 乗り換え
+  - japanese: つぎは〜
+    english: next (stop), ...
+    kanjis: 次は〜
+  - japanese: せんぱつ
+    english: departing first
+    kanjis: 先発
+  - japanese: じはつ
+    english: departing second
+    kanjis: 次発
+  - japanese: しゅうでん
+    english: last train
+    kanjis: 終電
+  - japanese: まもなくはっしゃします。
+    english: We will be leaving soon.
+    kanjis: まもなく発車します。
+  - japanese: でんしゃがまいります。
+    english: A train is arriving.
+    kanjis: 電車が参ります。
+  - japanese: つぎは〜にとまります。
+    english: Next (we'll stop at) ...
+    kanjis: 次は〜に止まります。
+  - japanese: ドアがしまります。ごちゅういください。
+    english: The doors are closing. Please be careful.
+    kanjis: ドアが閉まります。ご注意ください。
+  - japanese: このでんしゃはあきはばらにとまりますか。
+    english: Does this train stop at Akihabara?
+    kanjis: この電車は秋葉原に止まりますか。
+  - japanese: しゅうでんはなんじですか。
+    english: What time is the last train?
+    kanjis: 終電は何時ですか。
+  - japanese: とうきょうまでのしていせきをいちまいおねがいします。
+    english: One reserved ticket to Tokyo, please.
+    kanjis: 東京までの指定席を一枚お願いします。
+  - japanese: がくわりがつかえますか。
+    english: Can I get a student discount?
+    kanjis: 学割が使えますか。
+  - japanese: かまくらいきのでんしゃはどれですか。
+    english: Which one is the train bound for Kamakura?
+    kanjis: 鎌倉行きの電車はどれですか。

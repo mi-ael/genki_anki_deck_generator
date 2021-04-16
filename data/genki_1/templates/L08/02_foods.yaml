@@ -1,0 +1,35 @@
+sound_file:
+uid: 693904701
+cards:
+- category: foods
+  vocabulary:
+  - japanese: ごはん
+    english: white rice
+    kanji: ご飯
+  - japanese: おかず
+    english: a couple of dishes
+  - japanese: みそしる
+    english: soup
+    kanji: みそ汁
+  - japanese: カレーライス
+    english: Curry with rice
+  - japanese: おにぎり
+    english: Rice balls
+  - japanese: ラーメン
+    english: ramen noodels
+  - japanese: うどん
+    english: udon noodels
+  - japanese: バスタ
+    english: pasta
+  - japanese: ぎょうざ
+    english: dumplings
+  - japanese: ぎゅうどん
+    english: beef rice bowl
+    kanji: 牛丼
+  - japanese: ハンバーグ
+    english: hamburger steak
+  - japanese: さしみ
+    english: raw seafood
+  - japanese: おこのみやき
+    english: savory pancake
+    kanji: お好み焼き

@@ -1,0 +1,104 @@
+sound_file: Kaiwa_Bunpo_L00/K00_02.mp3
+skip_words: []
+skip_on_beginning: 0
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693903901
+sound_silence_threshold: 400
+cards:
+- category: L1_Numbers
+  vocabulary:
+  - japanese: ゼロ／れい
+    english: '0'
+    fuse_with_next: 1
+  - japanese: いち
+    english: '1'
+    kanji: 一
+  - japanese: に
+    english: '2'
+    kanji: 二
+  - japanese: さん
+    english: '3'
+    kanji: 三
+  - japanese: よん／し／（よ）
+    english: '4'
+    kanji: 四
+    fuse_with_next: 2
+  - japanese: ご
+    english: '5'
+    kanji: 五
+  - japanese: ろく
+    english: '6'
+    kanji: 六
+  - japanese: なな／しち
+    english: '7'
+    kanji: 七
+    fuse_with_next: 1
+  - japanese: はち
+    english: '8'
+    kanji: 八
+  - japanese: きゅう／く
+    english: '9'
+    kanji: 九
+    fuse_with_next: 1
+  - japanese: じゅう
+    english: '10'
+    kanji: 十
+  - japanese: じゅういち
+    english: '11'
+    kanji: 十一
+  - japanese: じゅうに
+    english: '12'
+    kanji: 十二
+  - japanese: じゅうさん
+    english: '13'
+    kanji: 十三
+  - japanese: じゅうよん／じゅうし
+    english: '14'
+    kanji: 十四
+    fuse_with_next: 1
+  - japanese: じゅうご
+    english: '15'
+    kanji: 十五
+  - japanese: じゅうろく
+    english: '16'
+    kanji: 十六
+  - japanese: じゅうなな／じゅうしち
+    english: '17'
+    kanji: 十七
+    fuse_with_next: 1
+  - japanese: じゅうはち
+    english: '18'
+    kanji: 十八
+  - japanese: じゅうきゅう／じゅうく
+    english: '19'
+    kanji: 十九
+    fuse_with_next: 1
+  - japanese: にじゅう
+    english: '20'
+    kanji: 二十
+  - japanese: さんじゅう
+    english: '30'
+    kanji: 三十
+  - japanese: よんじゅう
+    english: '40'
+    kanji: 四十
+  - japanese: ごじゅう
+    english: '50'
+    kanji: 五十
+  - japanese: ろくじゅう
+    english: '60'
+    kanji: 六十
+  - japanese: ななじゅう
+    english: '70'
+    kanji: 七十
+  - japanese: はちじゅう
+    english: '80'
+    kanji: 八十
+  - japanese: きゅうじゅう
+    english: '90'
+    kanji: 九十
+  - japanese: ひゃく
+    english: '100'
+    kanji: 百
+only_japanese: 1

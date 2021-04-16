@@ -1,0 +1,109 @@
+sound_file: Kaiwa_Bunpo_L01/K01_07.mp3
+skip_words: []
+skip_on_beginning: 1
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904001
+sound_silence_threshold: 600
+cards:
+- category: Countries
+  vocabulary:
+  - japanese: イギリス
+    english: Britain
+    kanji: ''
+  - japanese: オーストラリア
+    english: Australia
+    kanji: ''
+  - japanese: かんこく
+    english: Korea
+    kanji: 韓国
+  - japanese: カナダ
+    english: Canada
+    kanji: ''
+  - japanese: ちゅうごく
+    english: China
+    kanji: 中国
+  - japanese: インド
+    english: India
+    kanji: ''
+  - japanese: エジプト
+    english: Egypt
+    kanji: ''
+  - japanese: フィリピン
+    english: Philippines
+    kanji: ''
+- category: Majors
+  vocabulary:
+  - japanese: アジアけんきゅう
+    english: Asian studies
+    kanji: アジア研究
+  - japanese: けいざい
+    english: economics
+    kanji: ''
+  - japanese: こうがく
+    english: engineering
+    kanji: ''
+  - japanese: こくさいかんけい
+    english: international relations
+    kanji: 国際関係
+  - japanese: コンピューター
+    english: computer
+    kanji: ''
+  - japanese: せいじ
+    english: politics
+    kanji: 政治
+  - japanese: せいぶつがく
+    english: biology
+    kanji: ''
+  - japanese: ビジネス
+    english: business
+    kanji: ''
+  - japanese: ぶんがく
+    english: literature
+    kanji: 文学
+  - japanese: れきし
+    english: history
+    kanji: 歴史
+- category: Occupations
+  vocabulary:
+  - japanese: いしゃ
+    english: doctor
+    kanji: 医者
+  - japanese: かいしゃいん
+    english: office worker
+    kanji: 会社員
+  - japanese: かんごし
+    english: nurse
+    kanji: 看護師
+  - japanese: こうこうせい
+    english: high school student
+    kanji: 高校生
+  - japanese: しゅふ
+    english: housewife
+    kanji: 主婦
+  - japanese: だいがくいんせい
+    english: graduate student
+    kanji: 大学院生
+  - japanese: べんごし
+    english: lawyer
+    kanji: 弁護士
+- category: Family
+  vocabulary:
+  - japanese: おかあさん
+    english: mother
+    kanji: お母さん
+  - japanese: おとうさん
+    english: father
+    kanji: お父さん
+  - japanese: おねえさん
+    english: older sister
+    kanji: お姉さん
+  - japanese: おにいさん
+    english: older brother
+    kanji: お兄さん
+  - japanese: いもうと
+    english: younger sister
+    kanji: 妹
+  - japanese: おとうと
+    english: younger brother
+    kanji: 弟

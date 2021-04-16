@@ -1,0 +1,165 @@
+sound_file: Kaiwa_Bunpo_L11/K11_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693905000
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: がいこく
+    english: foreign country
+    kanji: 外国
+  - japanese: オーストラリア
+    english: Australia
+    kanji: ''
+  - japanese: かわ
+    english: river
+    kanji: 川
+  - japanese: おんせん
+    english: spa; hot spring
+    kanji: 温泉
+  - japanese: つり
+    english: fishing
+    kanji: ''
+  - japanese: みずうみ
+    english: lake
+    kanji: 湖
+  - japanese: やま
+    english: mountain
+    kanji: 山
+  - japanese: キャンプ
+    english: camp
+    kanji: ''
+  - japanese: ドライブ
+    english: drive
+    kanji: ''
+  - japanese: じんじゃ
+    english: shrine
+    kanji: 神社
+  - japanese: びじゅつかん
+    english: art museum
+    kanji: 美術館
+  - japanese: しゃちょう
+    english: president of a company
+    kanji: 社長
+  - japanese: かしゅ
+    english: singer
+    kanji: 歌手
+  - japanese: ルームメイト
+    english: roommate
+    kanji: ''
+  - japanese: ホストファミリー
+    english: host family
+    kanji: ''
+  - japanese: しょうらい
+    english: future
+    kanji: 将来
+  - japanese: ゆめ
+    english: dream
+    kanji: 夢
+  - japanese: おまつり
+    english: festival
+    kanji: お祭り
+  - japanese: おしょうがつ
+    english: New Year's
+    kanji: お正月
+  - japanese: おかし
+    english: snack; sweets
+    kanji: お菓子
+  - japanese: ビール
+    english: beer
+    kanji: ''
+  - japanese: おもちゃ
+    english: toy
+    kanji: ''
+  - japanese: こんがっき
+    english: this semester
+    kanji: 今学期
+  - japanese: らいがっき
+    english: next semester
+    kanji: 来学期
+  - japanese: じゅぎょう
+    english: class
+    kanji: 授業
+  - japanese: こちら
+    english: this person (polite)
+    kanji: ''
+- category: U-verbs
+  vocabulary:
+  - japanese: うそをつく
+    english: to tell a lie
+    kanji: ''
+  - japanese: おなかがすく
+    english: to become hungry
+    kanji: ''
+  - japanese: かう
+    english: to own (a pet) (〜を)
+    kanji: 飼う
+  - japanese: サボる
+    english: to cut (classes) (〜を)
+    kanji: ''
+  - japanese: とる
+    english: to take (a class); to get (a grade) (〜を)
+    kanji: 取る
+  - japanese: ならう
+    english: to learn (〜を)
+    kanji: 習う
+  - japanese: のぼる
+    english: to climb (<i>place</i>&nbsp;に)
+    kanji: 登る
+  - japanese: はしる
+    english: to run
+    kanji: 走る
+- category: Ru-verbs
+  vocabulary:
+  - japanese: つかれる
+    english: to get tired
+    kanji: 疲れる
+  - japanese: やめる
+    english: to quit (〜を)
+    kanji: ''
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: けんかする
+    english: to have a fight; to quarrel
+    kanji: ''
+  - japanese: しょうかいする
+    english: to introduce (<i>person </i>に <i>person </i>を)
+    kanji: 紹介する
+  - japanese: ダイエットする
+    english: to go on a diet
+    kanji: ''
+  - japanese: ちこくする
+    english: to be late (for an appointment) (〜に)
+    kanji: 遅刻する
+  - japanese: りゅうがくする
+    english: to study abroad (<i>place</i>&nbsp;に)
+    kanji: 留学する
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: しゅっしん
+    english: coming from (<i>place</i>&nbsp;の)
+    kanji: 出身
+  - japanese: ひさしぶり
+    english: it has been a long time
+    kanji: 久しぶり
+  - japanese: まあまあ
+    english: okay; so-so
+    kanji: ''
+  - japanese: もっと
+    english: more
+    kanji: ''
+  - japanese: あと
+    english: after (an event) (<i>event</i>&nbsp;の)
+    kanji: 後
+  - japanese: そして
+    english: and then
+    kanji: ''
+  - japanese: 〜だけ
+    english: just ...; only ...
+    kanji: ''
+  - japanese: 〜てん
+    english: '... points'
+    kanji: 〜点

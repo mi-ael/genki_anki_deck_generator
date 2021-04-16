@@ -1,0 +1,53 @@
+sound_file: 
+uid: 693904003
+cards:
+- category: years_old
+  vocabulary:
+  - japanese: いっさい*
+    english: one year old
+    kanji: 一才
+  - japanese: にさい
+    english: two years old
+    kanji: 二才
+  - japanese: さんさい
+    english: three years old
+    kanji: 三才
+  - japanese: よんさい
+    english: four years old
+    kanji: 四才
+  - japanese: ごさい
+    english: five years old
+    kanji: 五才
+  - japanese: ろくさい
+    english: six years old
+    kanji: 六才
+  - japanese: ななさい
+    english: seven years old
+    kanji: 七才
+  - japanese: はっさい*
+    english: eight years old
+    kanji: 八才
+  - japanese: きゅうさい
+    english: nine years old
+    kanji: 九才
+  - japanese: じゅっさい*
+    english: ten years old
+    kanji: 十才
+  - japanese: じゅういっさい
+    english: eleven years old
+    kanji: 十一才
+  - japanese: はたち*
+    english: 20 years old
+    kanji: 二十才
+  - japanese: にじゅういっさい
+    english: 21 years old
+    kanji: 二十一才
+  - japanese: さんじゅうごさい
+    english: 35 years old
+    kanji: 三十五才
+  - japanese: よんじゅっさい
+    english: 40 years old
+    kanji: 四十才
+  - japanese: 〜さい
+    english: ... years old
+    kanji: 〜才

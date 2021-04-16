@@ -1,0 +1,68 @@
+sound_file:
+uid: 693904305
+cards:
+- category: Useful_Expressions
+  vocabulary:
+  - japanese: おととい
+    english: the day before yesterday
+    kanjis: ''
+  - japanese: きのう
+    english: yesterday
+    kanjis: 昨日
+  - japanese: せんしゅう
+    english: last week
+    kanjis: 先週
+  - japanese: きょう
+    english: today
+    kanji: 今日
+  - japanese: あした
+    english: tomorrow
+    kanji: 明日
+  - japanese: あさって
+    english: the day after tomorrow
+    kanjis: ''
+  - japanese: にしゅうかんまえ
+    english: two weeks ago
+    kanjis: 二週間前
+  - japanese: せんしゅう
+    english: last week
+    kanji: 先週
+  - japanese: こんしゅう
+    english: this week
+    kanjis: 今週
+  - japanese: らいしゅう
+    english: next week
+    kanjis: 来週
+  - japanese: さらいしゅう
+    english: the week after next
+    kanjis: 再来週
+  - japanese: にかげつまえ
+    english: two months ago
+    kanjis: 二か月前
+  - japanese: せんげつ
+    english: last month
+    kanjis: 先月
+  - japanese: こんげつ
+    english: this month
+    kanjis: 今月
+  - japanese: らいげつ
+    english: next month
+    kanjis: 来月
+  - japanese: さらいげつ
+    english: the month after next
+    kanjis: 再来月
+  - japanese: おととし
+    english: the year before last
+    kanjis: ''
+  - japanese: きょねん
+    english: last year
+    kanjis: 去年
+  - japanese: ことし
+    english: this year
+    kanjis: 今年
+  - japanese: らいねん
+    english: next year
+    kanjis: 来年
+  - japanese: さらいねん
+    english: the year after next
+    kanjis: 再来年

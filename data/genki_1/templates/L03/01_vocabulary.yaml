@@ -1,0 +1,199 @@
+sound_file: Kaiwa_Bunpo_L03/K03_05.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904200
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - category: Entertainment_and_Sports
+    vocabulary:
+    - japanese: えいが
+      english: movie
+      kanji: 映画
+    - japanese: おんがく
+      english: music
+      kanji: 音楽
+    - japanese: ざっし
+      english: magazine
+      kanji: 雑誌
+    - japanese: スポーツ
+      english: sports
+      kanji: ''
+    - japanese: デート
+      english: date (romantic, not calendar)
+      kanji: ''
+    - japanese: テニス
+      english: tennis
+      kanji: ''
+    - japanese: テレビ
+      english: TV
+      kanji: ''
+  - category: Foods_and_Drinks
+    vocabulary:
+    - japanese: アイスクリーム
+      english: ice cream
+      kanji: ''
+    - japanese: ハンバーガー
+      english: hamburger
+      kanji: ''
+    - japanese: おさけ
+      english: sake; alcoholic drink
+      kanji: お酒
+    - japanese: おちゃ
+      english: green tea
+      kanji: お茶
+    - japanese: コーヒー
+      english: coffee
+      kanji: ''
+    - japanese: みず
+      english: water
+      kanji: 水
+    - japanese: あさごはん
+      english: breakfast
+      kanji: 朝ご飯
+    - japanese: ひるごはん
+      english: lunch
+      kanji: 昼ご飯
+    - japanese: ばんごはん
+      english: dinner
+      kanji: 晩ご飯
+  - category: Places
+    vocabulary:
+    - japanese: いえ
+      english: home; house
+      kanji: 家
+    - japanese: うち
+      english: home; house; my place
+      kanji: ''
+    - japanese: がっこう
+      english: school
+      kanji: 学校
+    - japanese: カフェ
+      english: cafe
+      kanji: ''
+  - category: Time
+    vocabulary:
+    - japanese: あした
+      english: tomorrow
+      kanji: 明日
+    - japanese: きょう
+      english: today
+      kanji: 今日
+    - japanese: あさ
+      english: morning
+      kanji: 朝
+    - japanese: こんばん
+      english: tonight
+      kanji: 今晩
+    - japanese: まいにち
+      english: every day
+      kanji: 毎日
+    - japanese: まいばん
+      english: every night
+      kanji: 毎晩
+    - japanese: しゅうまつ
+      english: weekend
+      kanji: 週末
+    - japanese: どようび
+      english: Saturday
+      kanji: 土曜日
+    - japanese: にちようび
+      english: Sunday
+      kanji: 日曜日
+    - japanese: いつ
+      english: when
+      kanji: ''
+    - japanese: 〜ごろ
+      english: at about ...
+      kanji: ''
+- category: U-verbs
+  vocabulary:
+  - japanese: いく
+    english: to go (<i>destination</i> に/へ)
+    kanji: 行く
+  - japanese: かえる
+    english: to go back; to return (<i>destination</i> に/へ)
+    kanji: 帰る
+  - japanese: きく
+    english: to listen; to hear (〜を); to ask (<i>person</i>&nbsp;に)
+    kanji: 聞く
+    skip_on_semikolon: 1
+  - japanese: のむ
+    english: to drink (〜を)
+    kanji: 飲む
+  - japanese: はなす
+    english: to speak; to talk (<i>language</i> を/で)
+    kanji: 話す
+  - japanese: よむ
+    english: to read (〜を)
+    kanji: 読む
+- category: Ru-verbs
+  vocabulary:
+  - japanese: おきる
+    english: to get up
+    kanji: 起きる
+  - japanese: たべる
+    english: to eat (〜を)
+    kanji: 食べる
+  - japanese: ねる
+    english: to sleep; to go to sleep
+    kanji: 寝る
+  - japanese: みる
+    english: to see; to look at; to watch (〜を)
+    kanji: 見る
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: くる
+    english: to come (<i>destination</i> に/へ)
+    kanji: 来る
+  - japanese: する
+    english: to do (〜を)
+    kanji: ''
+  - japanese: べんきょうする
+    english: to study (〜を)
+    kanji: 勉強する
+- category: Adjectives
+  vocabulary:
+  - japanese: いい
+    english: good
+    kanji: ''
+  - japanese: はやい
+    english: early
+    kanji: 早い
+- category: Adverbs
+  vocabulary:
+  - japanese: あまり + negative
+    english: not much
+    kanji: ''
+  - japanese: ぜんぜん + negative
+    english: not at all
+    kanji: 全然
+  - japanese: たいてい
+    english: usually
+    kanji: ''
+  - japanese: ちょっと
+    english: a little
+    kanji: ''
+  - japanese: ときどき
+    english: sometimes
+    kanji: 時々
+  - japanese: よく
+    english: often; much
+    kanji: ''
+- category: Expressions
+  vocabulary:
+  - japanese: そうですね
+    english: That's right.; Let me see.
+    kanji: ''
+  - japanese: でも
+    english: but
+    kanji: ''
+  - japanese: どうですか
+    english: How about ...?; How is ...?
+    kanji: ''
+  - japanese: ええ
+    english: yes
+    kanji: ''

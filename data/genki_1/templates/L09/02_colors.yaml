@@ -1,0 +1,67 @@
+sound_file:
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904801
+sound_silence_threshold: 600
+cards:
+- category: Useful_Expressions
+  vocabulary:
+  - japanese: くろい
+    english: black
+    kanjis: 黒い
+  - japanese: しろい
+    english: white
+    kanjis: 白い
+  - japanese: あかい
+    english: red
+    kanjis: 赤い
+  - japanese: あおい
+    english: blue
+    kanjis: 青い
+  - japanese: きいろい
+    english: yellow
+    kanjis: 黄色い
+  - japanese: ちゃいろい
+    english: brown
+    kanjis: 茶色い
+  - japanese: みどり／グリーン
+    english: green
+    kanjis: 緑
+  - japanese: こんいろ
+    english: navy blue
+    kanjis: 紺色
+  - japanese: みずいろ
+    english: light blue
+    kanjis: 水色
+  - japanese: ぎんいろ／シルバー
+    english: silver
+    kanjis: 銀色
+  - japanese: オレンジ
+    english: orange
+    kanjis: ''
+  - japanese: むらさき
+    english: purple
+    kanjis: 紫
+  - japanese: はいいろ／グレー
+    english: gray
+    kanjis: 灰色
+  - japanese: きんいろ／ゴールド
+    english: gold
+    kanjis: 金色
+  - japanese: ピンク
+    english: pink
+    kanjis: ''
+  - japanese: ベージュ
+    english: beige
+    kanjis: ''
+  - japanese: かおがあおいですね。
+    english: You look pale.
+    kanjis: 顔が青いですね。
+  - japanese: しろくろのしゃしん
+    english: black and white picture
+    kanjis: 白黒の写真
+  - japanese: あおしんごう
+    english: green light
+    kanjis: 青信号

@@ -1,0 +1,194 @@
+sound_file: Kaiwa_Bunpo_L10/K10_05.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904900
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: きせつ
+    english: season
+    kanji: 季節
+  - japanese: はる
+    english: spring
+    kanji: 春
+  - japanese: あき
+    english: fall
+    kanji: 秋
+  - japanese: ぎゅうにゅう
+    english: milk
+    kanji: 牛乳
+  - japanese: ケーキ
+    english: cake
+    kanji: ''
+  - japanese: すし
+    english: sushi
+    kanji: ''
+  - japanese: てんぷら
+    english: tempura
+    kanji: 天ぷら
+  - japanese: りんご
+    english: apple
+    kanji: ''
+  - japanese: りょうり
+    english: cuisine
+    kanji: 料理
+  - japanese: サッカー
+    english: soccer
+    kanji: ''
+  - japanese: やきゅう
+    english: baseball
+    kanji: 野球
+  - japanese: いしゃ
+    english: doctor
+    kanji: 医者
+  - japanese: おかねもち
+    english: rich person
+    kanji: お金持ち
+  - japanese: ゆうめいじん
+    english: celebrity
+    kanji: 有名人
+  - japanese: かお
+    english: face
+    kanji: 顔
+  - japanese: としうえ
+    english: someone older
+    kanji: 年上
+  - japanese: えき
+    english: station
+    kanji: 駅
+  - japanese: しんかんせん
+    english: Shinkansen; "Bullet Train"
+    kanji: 新幹線
+  - japanese: ちかてつ
+    english: subway
+    kanji: 地下鉄
+  - japanese: ふね
+    english: ship; boat
+    kanji: 船
+  - japanese: ひこうき
+    english: airplane
+    kanji: 飛行機
+  - japanese: よやく
+    english: reservation
+    kanji: 予約
+  - japanese: ツアー
+    english: tour
+    kanji: ''
+  - japanese: どうぶつえん
+    english: zoo
+    kanji: 動物園
+  - japanese: じかん
+    english: time
+    kanji: 時間
+  - japanese: せかい
+    english: world
+    kanji: 世界
+  - japanese: びよういん
+    english: beauty parlor
+    kanji: 美容院
+  - japanese: てぶくろ
+    english: gloves
+    kanji: 手袋
+  - japanese: せいかつ
+    english: life; living
+    kanji: 生活
+  - japanese: ことし
+    english: this year
+    kanji: 今年
+- category: い-adjectives
+  vocabulary:
+  - japanese: あたたかい
+    english: warm
+    kanji: 暖かい
+  - japanese: すずしい
+    english: cool (weather - not used for things)
+    kanji: 涼しい
+  - japanese: つめたい
+    english: cold (things/people)
+    kanji: 冷たい
+  - japanese: おそい
+    english: slow; late
+    kanji: 遅い
+  - japanese: ねむい
+    english: sleepy
+    kanji: 眠い
+- category: な-adjectives
+  vocabulary:
+  - japanese: かんたん（な）
+    english: easy; simple
+    kanji: 簡単
+- category: U-verbs
+  vocabulary:
+  - japanese: かかる
+    english: to take (amount of time/money) (<i>no particle</i>)
+    kanji: ''
+    skip_on_semikolon: 1
+  - japanese: とまる
+    english: to stay (at a hotel, etc.) (〜に)
+    kanji: 泊まる
+  - japanese: なる
+    english: to become
+    kanji: ''
+- category: Ru-verbs
+  vocabulary:
+  - japanese: きめる
+    english: to decide (〜を)
+    kanji: 決める
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: ごろごろする
+    english: to chill out at home; to stay home and do nothing
+    kanji: ''
+  - japanese: りょこうする
+    english: to travel
+    kanji: 旅行する
+  - japanese: れんしゅうする
+    english: to practice (〜を)
+    kanji: 練習する
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: いちばん
+    english: best
+    kanji: 一番
+  - japanese: どっち／どちら
+    english: which
+    kanji: ''
+    skip_on_semikolon: 1
+  - japanese: はやく
+    english: (do something) early; fast
+    kanji: 早く／速く
+  - japanese: あるいて
+    english: on foot
+    kanji: 歩いて
+  - japanese: 〜で
+    english: by (means of transportation); with (a tool)
+    kanji: ''
+  - japanese: どうやって
+    english: how; by what means
+    kanji: ''
+  - japanese: どのぐらい
+    english: how much; how long
+    kanji: ''
+  - japanese: 〜しゅうかん
+    english: for ... weeks
+    kanji: 〜週間
+    skip_on_semikolon: 1
+  - japanese: 〜かげつ
+    english: for ... months
+    kanji: 〜か月
+    skip_on_semikolon: 1
+  - japanese: 〜ねん
+    english: '... years'
+    kanji: 〜年
+  - japanese: このごろ
+    english: these days
+    kanji: ''
+  - japanese: 〜ご
+    english: in ... time; after ...
+    kanji: 〜後
+  - japanese: 〜か〜
+    english: or
+    kanji: ''

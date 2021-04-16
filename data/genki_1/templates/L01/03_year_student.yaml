@@ -1,0 +1,26 @@
+sound_file: 
+uid: 693904002
+cards:
+- category: year_student
+  vocabulary:
+  - japanese: いちねんせい
+    english: first-year student
+    kanji: 一年生
+  - japanese: にねんせい
+    english: second-year student
+    kanji: 二年生
+  - japanese: さんねんせい
+    english: third-year student
+    kanji: 三年生
+  - japanese: よねんせい*
+    english: fourth-year student
+    kanji: 四年生
+  - japanese: ごねんせい
+    english: fifth-year student
+    kanji: 五年生
+  - japanese: ろくねんせい
+    english: sixth-year student
+    kanji: 六年生
+  - japanese: 〜ねんせい
+    english: ... year student
+    kanji: 〜年生

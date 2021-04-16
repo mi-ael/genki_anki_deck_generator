@@ -1,0 +1,55 @@
+sound_file:
+uid: 693904102
+cards:
+- category: Useful_Expressions
+  vocabulary:
+  - japanese: ほん
+    english: book
+    kanjis: 本
+  - japanese: こくばん
+    english: blackboard
+    kanjis: 黒板
+  - japanese: つくえ
+    english: desk
+    kanjis: 机
+  - japanese: けしゴム
+    english: eraser
+    kanjis: 消しゴム
+  - japanese: じしょ
+    english: dictionary
+    kanjis: 辞書
+  - japanese: えんぴつ
+    english: pencil
+    kanjis: 鉛筆
+  - japanese: でんき
+    english: electricity; light
+    kanjis: 電気
+  - japanese: ドア
+    english: door
+  - japanese: カーテン
+    english: curtain
+  - japanese: まど
+    english: window
+    kanjis: 窓
+  - japanese: いす
+    english: chair
+    kanjis: 椅子
+  - japanese: わかりましたか。
+    english: Do you understand?
+    kanjis: 分かりましたか。
+  - japanese: わかりました。
+    english: I do understand./I understood.
+    kanjis: 分かりました。
+  - japanese: わかりません。
+    english: I don't understand./I don't know.
+    kanjis: 分かりません。
+  - japanese: ゆっくり　いってください。
+    english: Please say it slowly.
+  - japanese: もういちど　いってください。
+    english: Please say it again.
+  - japanese: ちょっと　まってください。
+    english: Please wait for a while.
+  - japanese: きいてください。
+    english: Please listen./Please ask.
+  - japanese: １０ページを　みてください。
+    english: Please look at page 10.

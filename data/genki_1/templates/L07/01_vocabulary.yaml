@@ -1,0 +1,190 @@
+sound_file: Kaiwa_Bunpo_L07/K07_05.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904600
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: かぞく
+    english: family
+    kanji: 家族
+  - japanese: おじいさん
+    english: grandfather; old man
+    kanji: ''
+  - japanese: おばあさん
+    english: grandmother; old woman
+    kanji: ''
+  - japanese: おにいさん
+    english: older brother
+    kanji: お兄さん
+  - japanese: おねえさん
+    english: older sister
+    kanji: お姉さん
+  - japanese: ちち
+    english: (my) father
+    kanji: 父
+  - japanese: はは
+    english: (my) mother
+    kanji: 母
+  - japanese: あに
+    english: (my) older brother
+    kanji: 兄
+  - japanese: あね
+    english: (my) older sister
+    kanji: 姉
+  - japanese: いもうと
+    english: younger sister
+    kanji: 妹
+  - japanese: おとうと
+    english: younger brother
+    kanji: 弟
+  - japanese: きょうだい
+    english: brothers and sisters
+    kanji: 兄弟
+  - japanese: おとこのひと
+    english: man
+    kanji: 男の人
+  - japanese: おんなのひと
+    english: woman
+    kanji: 女の人
+  - japanese: かいしゃ
+    english: company
+    kanji: 会社
+  - japanese: しょくどう
+    english: cafeteria; dining commons
+    kanji: 食堂
+  - japanese: デパート
+    english: department store
+    kanji: ''
+  - japanese: かみ
+    english: hair
+    kanji: 髪
+  - japanese: くち
+    english: mouth
+    kanji: 口
+  - japanese: め
+    english: eye
+    kanji: 目
+  - japanese: めがね
+    english: glasses
+    kanji: 眼鏡
+  - japanese: うた
+    english: song
+    kanji: 歌
+  - japanese: サークル
+    english: club activity
+    kanji: ''
+  - japanese: くるま
+    english: car
+    kanji: 車
+- category: い-adjectives
+  vocabulary:
+  - japanese: ながい
+    english: long
+    kanji: 長い
+  - japanese: みじかい
+    english: short (length)
+    kanji: 短い
+  - japanese: はやい
+    english: fast
+    kanji: 速い
+  - japanese: せがたかい
+    english: tall (stature)
+    kanji: 背が高い
+  - japanese: せがひくい
+    english: short (stature)
+    kanji: 背が低い
+  - japanese: あたまがいい
+    english: bright; smart; clever (conjugates like いい)
+    kanji: 頭がいい
+  - japanese: かわいい
+    english: cute
+    kanji: ''
+- category: な-adjectives
+  vocabulary:
+  - japanese: しんせつ（な）
+    english: kind
+    kanji: 親切
+  - japanese: べんり（な）
+    english: convenient
+    kanji: 便利
+- category: U-verbs
+  vocabulary:
+  - japanese: うたう
+    english: to sing (〜を)
+    kanji: 歌う
+  - japanese: かぶる
+    english: to put on (a hat) (〜を)
+    kanji: ''
+  - japanese: はく
+    english: to put on (items below your waist) (〜を)
+    kanji: ''
+  - japanese: しる
+    english: to get to know (〜を)
+    kanji: 知る
+  - japanese: しっています
+    english: I know
+    kanji: 知っています
+  - japanese: しりません
+    english: I do not know
+    kanji: 知りません
+  - japanese: すむ
+    english: to live (〜にすんでいます)
+    kanji: 住む
+  - japanese: はたらく
+    english: to work
+    kanji: 働く
+  - japanese: ふとる
+    english: to gain weight
+    kanji: 太る
+  - japanese: ふとっています
+    english: to be on the heavy side; overweight
+    kanji: 太っています
+- category: Ru-verbs
+  vocabulary:
+  - japanese: （めがねを）かける
+    english: to put on (glasses)
+    kanji: ''
+  - japanese: きる
+    english: to put on (clothes above your waist) (〜を)
+    kanji: 着る
+  - japanese: やせる
+    english: to lose weight
+    kanji: ''
+  - japanese: やせています
+    english: to be thin
+    kanji: ''
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: けっこんする
+    english: to get married (〜と)
+    kanji: 結婚する
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: 〜が
+    english: '..., but'
+    kanji: ''
+  - japanese: なにも + negative
+    english: not ... anything
+    kanji: 何も
+  - japanese: 〜にん
+    english: '[counter for people]'
+    kanji: 〜人
+  - japanese: ひとり
+    english: one person
+    kanji: 一人
+  - japanese: ふたり
+    english: two people
+    kanji: 二人
+  - japanese: べつに + negative
+    english: nothing in particular
+    kanji: 別に
+  - japanese: もちろん
+    english: of course
+    kanji: ''
+  - japanese: よかったら
+    english: if you like
+    kanji: ''

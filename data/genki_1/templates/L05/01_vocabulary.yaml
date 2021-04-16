@@ -1,0 +1,175 @@
+sound_file: Kaiwa_Bunpo_L05/K05_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904400
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: たべもの
+    english: food
+    kanji: 食べ物
+  - japanese: のみもの
+    english: drink
+    kanji: 飲み物
+  - japanese: くだもの
+    english: fruit
+    kanji: 果物
+  - japanese: やすみ
+    english: holiday; day off; absence
+    kanji: 休み
+  - japanese: りょこう
+    english: travel
+    kanji: 旅行
+  - japanese: うみ
+    english: sea
+    kanji: 海
+  - japanese: サーフィン
+    english: surfing
+    kanji: ''
+  - japanese: おみやげ
+    english: souvenir
+    kanji: お土産
+  - japanese: バス
+    english: bus
+    kanji: ''
+  - japanese: てんき
+    english: weather
+    kanji: 天気
+  - japanese: しゅくだい
+    english: homework
+    kanji: 宿題
+  - japanese: テスト
+    english: test
+    kanji: ''
+  - japanese: たんじょうび
+    english: birthday
+    kanji: 誕生日
+  - japanese: へや
+    english: room
+    kanji: 部屋
+  - japanese: ぼく
+    english: I (used by men)
+    kanji: 僕
+  - japanese: Lサイズ（エルサイズ）
+    english: size L
+    kanji: ''
+- category: い-adjectives
+  vocabulary:
+  - japanese: あたらしい
+    english: new
+    kanji: 新しい
+  - japanese: ふるい
+    english: old (thing - not used for people)
+    kanji: 古い
+  - japanese: あつい
+    english: hot
+    kanji: 暑い (weather) 熱い (thing)
+  - japanese: さむい
+    english: cold (weather - not used for things)
+    kanji: 寒い
+    skip_on_semikolon: 2
+  - japanese: いそがしい
+    english: busy (people/days)
+    kanji: 忙しい
+  - japanese: おおきい
+    english: large
+    kanji: 大きい
+  - japanese: ちいさい
+    english: small
+    kanji: 小さい
+  - japanese: おもしろい
+    english: interesting; funny
+    kanji: 面白い
+  - japanese: つまらない
+    english: boring
+    kanji: ''
+  - japanese: やさしい
+    english: easy (problem); kind (person)
+    kanji: ''
+  - japanese: むずかしい
+    english: difficult
+    kanji: 難しい
+  - japanese: かっこいい
+    english: good-looking (conjugates like いい)
+    kanji: ''
+  - japanese: こわい
+    english: frightening
+    kanji: 怖い
+  - japanese: たのしい
+    english: fun
+    kanji: 楽しい
+  - japanese: やすい
+    english: inexpensive; cheap (thing)
+    kanji: 安い
+- category: な-adjectives
+  vocabulary:
+  - japanese: すき（な）
+    english: fond of; to like (〜が)
+    kanji: 好き
+  - japanese: きらい（な）
+    english: disgusted with; to dislike (〜が)
+    kanji: 嫌い
+  - japanese: だいすき（な）
+    english: very fond of; to love (〜が)
+    kanji: 大好き
+  - japanese: だいきらい（な）
+    english: to hate (〜が)
+    kanji: 大嫌い
+  - japanese: きれい（な）
+    english: beautiful; clean
+    kanji: ''
+  - japanese: げんき（な）
+    english: healthy; energetic
+    kanji: 元気
+  - japanese: しずか（な）
+    english: quiet
+    kanji: 静か
+  - japanese: にぎやか（な）
+    english: lively
+    kanji: ''
+  - japanese: ひま（な）
+    english: not busy; free (time)
+    kanji: 暇
+- category: U-verbs
+  vocabulary:
+  - japanese: およぐ
+    english: to swim
+    kanji: 泳ぐ
+  - japanese: きく
+    english: to listen; to hear (〜を); to ask (<i>person</i>&nbsp;に)
+    kanji: 聞く
+    skip_on_semikolon: 0
+  - japanese: のる
+    english: to ride; to board (〜に)
+    kanji: 乗る
+  - japanese: やる
+    english: to do; to perform (〜を)
+    kanji: ''
+- category: Ru-verbs
+  vocabulary:
+  - japanese: でかける
+    english: to go out
+    kanji: 出かける
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: いっしょに
+    english: together
+    kanji: 一緒に
+  - japanese: すごく
+    english: extremely
+    kanji: ''
+  - japanese: だいじょうぶ
+    english: It's okay; Not to worry; Everything is under control.
+    kanji: 大丈夫
+  - japanese: とても
+    english: very
+    kanji: ''
+  - japanese: どんな
+    english: what kind of ...
+    kanji: ''
+  - japanese: 〜まい
+    english: '[counter for flat objects]'
+    kanji: 〜枚

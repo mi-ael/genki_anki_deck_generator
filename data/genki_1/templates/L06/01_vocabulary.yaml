@@ -1,0 +1,162 @@
+sound_file: Kaiwa_Bunpo_L06/K06_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904500
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: かんじ
+    english: kanji; Chinese character
+    kanji: 漢字
+  - japanese: きょうかしょ
+    english: textbook
+    kanji: 教科書
+  - japanese: ページ
+    english: page
+    kanji: ''
+  - japanese: つぎ
+    english: next
+    kanji: 次
+  - japanese: おかね
+    english: money
+    kanji: お金
+  - japanese: にもつ
+    english: baggage
+    kanji: 荷物
+  - japanese: パソコン
+    english: personal computer
+    kanji: ''
+  - japanese: シャワー
+    english: shower
+    kanji: ''
+  - japanese: エアコン
+    english: air conditionar
+    kanji: ''
+  - japanese: でんき
+    english: electricity; light
+    kanji: 電気
+  - japanese: まど
+    english: window
+    kanji: 窓
+  - japanese: でんしゃ
+    english: train
+    kanji: 電車
+  - japanese: くに
+    english: country; place of origin
+    kanji: 国
+  - japanese: こんしゅう
+    english: this week
+    kanji: 今週
+  - japanese: らいしゅう
+    english: next week
+    kanji: 来週
+  - japanese: らいねん
+    english: next year
+    kanji: 来年
+  - japanese: よる
+    english: night
+    kanji: 夜
+- category: な-adjectives
+  vocabulary:
+  - japanese: たいへん（な）
+    english: tough (situation)
+    kanji: 大変
+- category: U-verbs
+  vocabulary:
+  - japanese: あそぶ
+    english: to play; to spend time pleasantly
+    kanji: 遊ぶ
+  - japanese: いそぐ
+    english: to hurry
+    kanji: 急ぐ
+  - japanese: かえす
+    english: to return (a thing) (<i>person</i>&nbsp;に <i>thing</i>&nbsp;を)
+    kanji: 返す
+  - japanese: けす
+    english: to turn off; to erase (〜を)
+    kanji: 消す
+  - japanese: しぬ
+    english: to die
+    kanji: 死ぬ
+  - japanese: すわる
+    english: to sit down (<i>seat</i>&nbsp;に)
+    kanji: 座る
+  - japanese: たつ
+    english: to stand up
+    kanji: 立つ
+  - japanese: たばこをすう
+    english: to smoke
+    kanji: たばこを吸う
+  - japanese: つかう
+    english: to use (〜を)
+    kanji: 使う
+  - japanese: てつだう
+    english: to help (<i>person</i>/<i>task</i>&nbsp;を)
+    kanji: 手伝う
+  - japanese: はいる
+    english: to enter (〜に)
+    kanji: 入る
+  - japanese: もつ
+    english: to carry; to hold (〜を)
+    kanji: 持つ
+  - japanese: やすむ
+    english: (1) to be absent (from ...) (〜を)<div>(2) to rest</div>
+    kanji: 休む
+    skip_on_semikolon: 1
+- category: Ru-verbs
+  vocabulary:
+  - japanese: あける
+    english: to open (something) (〜を)
+    kanji: 開ける
+  - japanese: しめる
+    english: to close (something) (〜を)
+    kanji: 閉める
+  - japanese: おしえる
+    english: to teach; to instruct (person に thing を)
+    kanji: 教える
+  - japanese: わすれる
+    english: to forget; to leave behind (〜を)
+    kanji: 忘れる
+  - japanese: おりる
+    english: to get off (〜を)
+    kanji: 降りる
+  - japanese: かりる
+    english: to borrow (person に thing を)
+    kanji: 借りる
+  - japanese: シャワーをあびる
+    english: to take a shower
+    kanji: シャワーを浴びる
+  - japanese: つける
+    english: to turn on (〜を)
+    kanji: ''
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: でんわする
+    english: to call (〜に)
+    kanji: 電話する
+  - japanese: つれてくる
+    english: to bring (a person) (〜を)
+    kanji: 連れてくる
+  - japanese: もってくる
+    english: to bring (a thing) (〜を)
+    kanji: 持ってくる
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: あとで
+    english: later on
+    kanji: 後で
+  - japanese: すぐ
+    english: right away
+    kanji: ''
+  - japanese: ゆっくり
+    english: slowly; leisurely; unhurriedly
+    kanji: ''
+  - japanese: けっこうです
+    english: That would be fine.; That wouldn't be necessary.
+    kanji: 結構です
+  - japanese: ほんとうですか
+    english: Really?
+    kanji: 本当ですか

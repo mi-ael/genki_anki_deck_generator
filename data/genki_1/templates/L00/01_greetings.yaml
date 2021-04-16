@@ -1,0 +1,68 @@
+sound_file: Kaiwa_Bunpo_L00/K00_01.mp3
+skip_words: []
+skip_on_beginning: 0
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693903900
+sound_silence_threshold: 600
+cards:
+- category: L1_Greetings
+  vocabulary:
+  - japanese: おはよう。
+    english: Good morning.
+    kanji: ''
+  - japanese: おはよう　ございます。
+    english: Good morning. (polite)
+    kanji: ''
+  - japanese: こんにちは。
+    english: Good afternoon.
+    kanji: ''
+  - japanese: こんばんは。
+    english: Good evening.
+    kanji: ''
+  - japanese: さようなら。
+    english: Good-bye.
+    kanji: ''
+  - japanese: おやすみ（なさい）。
+    english: Good night.
+    kanji: ''
+  - japanese: ありがとう。
+    english: Thank you.
+    kanji: ''
+  - japanese: ありがとう　ございます。
+    english: Thank you. (polite)
+    kanji: ''
+  - japanese: すみません。
+    english: Excuse me.; I'm sorry.
+    kanji: ''
+  - japanese: いいえ。
+    english: No.; Not at all.
+    kanji: ''
+    skip_on_semikolon: false
+  - japanese: いってきます。
+    english: I'll go and come back.
+    kanji: ''
+  - japanese: いってらっしゃい。
+    english: Please go and come back.
+    kanji: ''
+  - japanese: ただいま。
+    english: I'm home.
+    kanji: ''
+  - japanese: おかえり（なさい）。
+    english: Welcome home.
+    kanji: ''
+  - japanese: いただきます。
+    english: Thank you for the meal. (before eating)
+    kanji: ''
+  - japanese: ごちそうさま（でした）。
+    english: Thank you for the meal. (after eating)
+    kanji: ''
+  - japanese: はじめまして。
+    english: How do you do?
+    kanji: ''
+  - japanese: 〜です。
+    english: I am ...
+    kanji: ''
+  - japanese: よろしく　おねがいします。
+    english: Nice to meet you.
+    kanji: ''

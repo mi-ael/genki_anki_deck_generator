@@ -1,0 +1,183 @@
+sound_file: Kaiwa_Bunpo_L12/K12_05.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693905100
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: おなか
+    english: stomach
+    kanji: ''
+  - japanese: あし
+    english: leg; foot
+    kanji: 足
+  - japanese: のど
+    english: throat
+    kanji: ''
+  - japanese: は
+    english: tooth
+    kanji: 歯
+  - japanese: インフルエンザ
+    english: influenza
+    kanji: ''
+  - japanese: かぜ
+    english: cold
+    kanji: 風邪
+  - japanese: せき
+    english: cough
+    kanji: ''
+  - japanese: ふつかよい
+    english: hangover
+    kanji: 二日酔い
+  - japanese: ホームシック
+    english: homesickness
+    kanji: ''
+  - japanese: アレルギー
+    english: allergy
+    kanji: ''
+  - japanese: ジュース
+    english: juice
+    kanji: ''
+  - japanese: たまご
+    english: egg
+    kanji: 卵
+  - japanese: ふく
+    english: clothes
+    kanji: 服
+  - japanese: もの
+    english: thing (concrete object)
+    kanji: 物
+  - japanese: プレゼント
+    english: present
+    kanji: ''
+  - japanese: きっぷ
+    english: train ticket
+    kanji: 切符
+  - japanese: 〜だい
+    english: charge; fee
+    kanji: 〜代
+  - japanese: ようじ
+    english: business to take care of
+    kanji: 用事
+  - japanese: おてあらい
+    english: restroom
+    kanji: お手洗い
+  - japanese: しあい
+    english: match; game
+    kanji: 試合
+  - japanese: せいじ
+    english: politics
+    kanji: 政治
+  - japanese: せいせき
+    english: grade (on a test, etc.)
+    kanji: 成績
+  - japanese: かのじょ
+    english: she; girlfriend
+    kanji: 彼女
+  - japanese: かれ
+    english: he; boyfriend
+    kanji: 彼
+  - japanese: かれし
+    english: boyfriend
+    kanji: 彼氏
+  - japanese: いみ
+    english: meaning
+    kanji: 意味
+- category: い-adjectives
+  vocabulary:
+  - japanese: せまい
+    english: narrow; not spacious
+    kanji: 狭い
+    skip_on_semikolon: false
+  - japanese: ひろい
+    english: wide; spacious
+    kanji: 広い
+  - japanese: わるい
+    english: bad
+    kanji: 悪い
+  - japanese: いたい
+    english: hurt; painful
+    kanji: 痛い
+  - japanese: あまい
+    english: sweet
+    kanji: 甘い
+  - japanese: おおい
+    english: there are many ...
+    kanji: 多い
+- category: な-adjectives
+  vocabulary:
+  - japanese: すてき（な）
+    english: nice
+    kanji: 素敵
+- category: U-verbs
+  vocabulary:
+  - japanese: あるく
+    english: to walk
+    kanji: 歩く
+  - japanese: かぜをひく
+    english: to catch a cold
+    kanji: 風邪をひく
+  - japanese: ねつがある
+    english: to have a fever
+    kanji: 熱がある
+  - japanese: のどがかわく
+    english: to become thirsty
+    kanji: のどが渇く
+  - japanese: はらう
+    english: to pay (〜を)
+    kanji: 払う
+  - japanese: なくす
+    english: to lose (〜を)
+    kanji: ''
+  - japanese: きょうみがある
+    english: to be interested (in ...) (<i>topic </i>に)
+    kanji: 興味がある
+- category: Ru-verbs
+  vocabulary:
+  - japanese: せきがでる
+    english: to cough
+    kanji: せきが出る
+  - japanese: わかれる
+    english: to break up; to separate (<i>person</i>&nbsp;と)
+    kanji: 別れる
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: きんちょうする
+    english: to get nervous
+    kanji: 緊張する
+  - japanese: しんぱいする
+    english: to worry
+    kanji: 心配する
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: おだいじに
+    english: Get well soon.
+    kanji: お大事に
+  - japanese: げんきがない
+    english: don't look well
+    kanji: 元気がない
+  - japanese: できるだけ
+    english: as much as possible
+    kanji: ''
+  - japanese: たぶん
+    english: probably; maybe
+    kanji: 多分
+  - japanese: もうすぐ
+    english: very soon; in a few moments/days
+    kanji: ''
+    skip_on_semikolon: 2
+  - japanese: はじめて
+    english: for the first time
+    kanji: 初めて
+  - japanese: にさんにち
+    english: for two to three days
+    kanji: 二三日
+  - japanese: それに
+    english: moreover, ...
+    kanji: ''
+  - japanese: おなじ
+    english: same
+    kanji: 同じ

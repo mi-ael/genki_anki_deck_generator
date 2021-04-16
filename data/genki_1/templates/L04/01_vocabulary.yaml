@@ -1,0 +1,212 @@
+sound_file: Kaiwa_Bunpo_L04/K04_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904300
+sound_silence_threshold: 300
+cards:
+- category: Nouns
+  vocabulary:
+  - category: Activities
+    vocabulary:
+    - japanese: ゲーム
+      english: game
+      kanji: ''
+    - japanese: アルバイト
+      english: part-time job (more colloquially, バイト)
+      kanji: ''
+    - japanese: かいもの
+      english: shopping
+      kanji: 買い物
+    - japanese: クラス
+      english: class
+      kanji: ''
+  - category: People_and_Things
+    vocabulary:
+    - japanese: いぬ
+      english: dog
+      kanji: 犬
+    - japanese: ねこ
+      english: cat
+      kanji: 猫
+    - japanese: ひと
+      english: person
+      kanji: 人
+    - japanese: こども
+      english: child
+      kanji: 子供
+    - japanese: あなた
+      english: you
+      kanji: ''
+    - japanese: いす
+      english: chair
+      kanji: ''
+    - japanese: つくえ
+      english: desk
+      kanji: 机
+    - japanese: しゃしん
+      english: picture; photograph
+      kanji: 写真
+    - japanese: はな
+      english: flower
+      kanji: 花
+    - japanese: レポート
+      english: (term) paper
+      kanji: ''
+    - japanese: ごはん
+      english: rice; meal
+      kanji: ご飯
+    - japanese: パン
+      english: bread
+      kanji: ''
+  - category: Places
+    vocabulary:
+    - japanese: おてら
+      english: temple
+      kanji: お寺
+    - japanese: こうえん
+      english: park
+      kanji: 公園
+    - japanese: スーパー
+      english: supermarket
+      kanji: ''
+    - japanese: バスてい
+      english: bus stop
+      kanji: バス停
+    - japanese: びょういん
+      english: hospital
+      kanji: 病院
+    - japanese: ホテル
+      english: hotel
+      kanji: ''
+    - japanese: ほんや
+      english: bookstore
+      kanji: 本屋
+    - japanese: まち
+      english: town; city
+      kanji: 町
+    - japanese: レストラン
+      english: restaurant
+      kanji: ''
+  - category: Time
+    vocabulary:
+    - japanese: きのう
+      english: yesterday
+      kanji: 昨日
+    - japanese: 〜じかん
+      english: '... hours'
+      kanji: 〜時間
+    - japanese: いちじかん
+      english: one hour
+      kanji: 一時間
+    - japanese: せんしゅう
+      english: last week
+      kanji: 先週
+    - japanese: とき
+      english: when ...; at the time of ... (〜の)
+      kanji: 時
+    - japanese: げつようび
+      english: Monday
+      kanji: 月曜日
+    - japanese: かようび
+      english: Tuesday
+      kanji: 火曜日
+    - japanese: すいようび
+      english: Wednesday
+      kanji: 水曜日
+    - japanese: もくようび
+      english: Thursday
+      kanji: 木曜日
+    - japanese: きんようび
+      english: Friday
+      kanji: 金曜日
+- category: U-verbs
+  vocabulary:
+  - japanese: あう
+    english: to meet; to see (a person) (<i>person</i>&nbsp;に)
+    kanji: 会う
+  - japanese: ある
+    english: there is ... (<i>place</i>&nbsp;に <i>thing</i>&nbsp;が)
+    kanji: ''
+  - japanese: かう
+    english: to buy (〜を)
+    kanji: 買う
+  - japanese: かく
+    english: to write (<i>person</i>&nbsp;に <i>thing</i>&nbsp;を)
+    kanji: 書く
+  - japanese: とる
+    english: to take (a picture) (〜を)
+    kanji: 撮る
+  - japanese: まつ
+    english: to wait (〜を)
+    kanji: 待つ
+  - japanese: わかる
+    english: to understand (〜が)
+    kanji: ''
+- category: Ru-verbs
+  vocabulary:
+  - japanese: いる
+    english: (a person) is in ...; stays at ... (<i>place </i>に <i>person</i>&nbsp;が)
+    kanji: ''
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: 〜ぐらい
+    english: about (approximate measurement)
+    kanji: ''
+  - japanese: ごめんなさい
+    english: I'm sorry.
+    kanji: ''
+  - japanese: それから
+    english: and then
+    kanji: ''
+  - japanese: だから
+    english: so; therefore
+    kanji: ''
+  - japanese: たくさん
+    english: many; a lot
+    kanji: ''
+  - japanese: 〜と
+    english: together with (a person); and
+    kanji: ''
+  - japanese: どうして
+    english: why
+    kanji: ''
+  - japanese: ひとりで
+    english: alone
+    kanji: 一人で
+  - japanese: もしもし
+    english: Hello? (used on the phone)
+    kanji: ''
+- category: Location_Words
+  vocabulary:
+  - japanese: みぎ
+    english: right (〜の)
+    kanji: 右
+  - japanese: ひだり
+    english: left (〜の)
+    kanji: 左
+  - japanese: まえ
+    english: front (〜の)
+    kanji: 前
+  - japanese: うしろ
+    english: back (〜の)
+    kanji: 後ろ
+  - japanese: なか
+    english: inside (〜の)
+    kanji: 中
+  - japanese: うえ
+    english: on (〜の)
+    kanji: 上
+  - japanese: した
+    english: under (〜の)
+    kanji: 下
+  - japanese: ちかく
+    english: near; nearby (〜の)
+    kanji: 近く
+  - japanese: となり
+    english: next (〜の)
+    kanji: 隣
+  - japanese: あいだ
+    english: between (AとBの)
+    kanji: 間

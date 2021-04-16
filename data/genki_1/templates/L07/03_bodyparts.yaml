@@ -1,0 +1,64 @@
+sound_file:
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904602
+sound_silence_threshold: 600
+cards:
+- category: Useful_Expressions
+  vocabulary:
+  - japanese: かみ
+    english: hair
+    kanjis: 髪
+  - japanese: くち
+    english: mouth
+    kanjis: 口
+  - japanese: め
+    english: eye
+    kanjis: 目
+  - japanese: はな
+    english: nose
+    kanjis: 鼻
+  - japanese: ゆび
+    english: finger
+    kanjis: 指
+  - japanese: は
+    english: tooth
+    kanjis: 歯
+  - japanese: まゆげ
+    english: eyebrows
+    kanjis: 眉毛
+  - japanese: みみ
+    english: ear
+    kanjis: 耳
+  - japanese: て
+    english: hand
+    kanjis: 手
+  - japanese: くび
+    english: neck
+    kanjis: 首
+  - japanese: あたま
+    english: head
+    kanjis: 頭
+  - japanese: せなか
+    english: back
+    kanjis: 背中
+  - japanese: おしり
+    english: buttocks
+    kanjis: ''
+  - japanese: かお
+    english: face
+    kanjis: 顔
+  - japanese: かた
+    english: shoulder
+    kanjis: 肩
+  - japanese: むね
+    english: breast
+    kanjis: 胸
+  - japanese: おなか
+    english: stomach
+    kanjis: ''
+  - japanese: あし
+    english: leg; foot
+    kanjis: 足

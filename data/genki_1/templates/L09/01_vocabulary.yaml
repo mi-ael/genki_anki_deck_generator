@@ -1,0 +1,190 @@
+sound_file: Kaiwa_Bunpo_L09/K09_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904800
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: たんご
+    english: word; vocabulary
+    kanji: 単語
+  - japanese: さくぶん
+    english: essay; composition
+    kanji: 作文
+  - japanese: しけん
+    english: exam
+    kanji: 試験
+  - japanese: てがみ
+    english: letter
+    kanji: 手紙
+  - japanese: メール
+    english: e-mail
+    kanji: ''
+  - japanese: ギター
+    english: guitar
+    kanji: ''
+  - japanese: ピアノ
+    english: piano
+    kanji: ''
+  - japanese: コンサート
+    english: concert
+    kanji: ''
+  - japanese: チケット
+    english: ticket
+    kanji: ''
+  - japanese: かぶき
+    english: Kabuki; traditional Japanese theatrical art
+    kanji: 歌舞伎
+  - japanese: スキー
+    english: ski
+    kanji: ''
+  - japanese: おべんとう
+    english: boxed lunch
+    kanji: お弁当
+  - japanese: ピザ
+    english: pizza
+    kanji: ''
+  - japanese: びょうき
+    english: illness; sickness
+    kanji: 病気
+  - japanese: くすり
+    english: medicine
+    kanji: 薬
+  - japanese: いいこ
+    english: good child
+    kanji: いい子
+  - japanese: いろ
+    english: color
+    kanji: 色
+  - japanese: こんど
+    english: near future
+    kanji: 今度
+  - japanese: せんげつ
+    english: last month
+    kanji: 先月
+  - japanese: きょねん
+    english: last year
+    kanji: 去年
+- category: い-adjectives
+  vocabulary:
+  - japanese: あおい
+    english: blue
+    kanji: 青い
+  - japanese: あかい
+    english: red
+    kanji: 赤い
+  - japanese: くろい
+    english: black
+    kanji: 黒い
+  - japanese: しろい
+    english: white
+    kanji: 白い
+  - japanese: さびしい
+    english: lonely
+    kanji: 寂しい
+  - japanese: わかい
+    english: young
+    kanji: 若い
+- category: な-adjectives
+  vocabulary:
+  - japanese: いじわる（な）
+    english: mean-spirited
+    kanji: 意地悪
+- category: U-verbs
+  vocabulary:
+  - japanese: おどる
+    english: to dance
+    kanji: 踊る
+  - japanese: おわる
+    english: (something) ends (〜が)
+    kanji: 終わる
+  - japanese: くすりをのむ
+    english: to take medicine
+    kanji: 薬を飲む
+  - japanese: にんきがある
+    english: to be popular
+    kanji: 人気がある
+  - japanese: はじまる
+    english: (something) begins (〜が)
+    kanji: 始まる
+  - japanese: ひく
+    english: to play (a string instrument or piano) (〜を)
+    kanji: 弾く
+  - japanese: もらう
+    english: to get (from somebody) (<i>person</i> に <i>thing</i> を)
+    kanji: ''
+- category: Ru-verbs
+  vocabulary:
+  - japanese: おぼえる
+    english: to memorize (〜を)
+    kanji: 覚える
+  - japanese: でる
+    english: (1) to appear; to attend (〜に)<div>(2) to exit (〜を)</div>
+    kanji: 出る
+    skip_on_semikolon: 2
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: うんどうする
+    english: to exercise
+    kanji: 運動する
+  - japanese: さんぽする
+    english: to take a walk
+    kanji: 散歩する
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: そう
+    english: (I think) so
+    kanji: ''
+  - japanese: 〜から
+    english: from ...
+    kanji: ''
+  - japanese: 〜まで
+    english: to (a place/a time)
+    kanji: ''
+  - japanese: ぜひ
+    english: by all means
+    kanji: 是非
+  - japanese: ところで
+    english: by the way
+    kanji: ''
+  - japanese: みんな
+    english: all
+    kanji: ''
+  - japanese: もう
+    english: already
+    kanji: ''
+- category: Numbers
+  vocabulary:
+  - japanese: ひとつ
+    english: one
+    kanji: 一つ
+  - japanese: ふたつ
+    english: two
+    kanji: 二つ
+  - japanese: みっつ
+    english: three
+    kanji: 三つ
+  - japanese: よっつ
+    english: four
+    kanji: 四つ
+  - japanese: いつつ
+    english: five
+    kanji: 五つ
+  - japanese: むっつ
+    english: six
+    kanji: 六つ
+  - japanese: ななつ
+    english: seven
+    kanji: 七つ
+  - japanese: やっつ
+    english: eight
+    kanji: 八つ
+  - japanese: ここのつ
+    english: nine
+    kanji: 九つ
+  - japanese: とお
+    english: ten
+    kanji: 十

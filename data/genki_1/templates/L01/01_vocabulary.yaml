@@ -1,0 +1,126 @@
+sound_file: Kaiwa_Bunpo_L01/K01_05.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: false
+uid: 693904000
+sound_silence_threshold: 1000
+cards:
+- category: School
+  vocabulary:
+  - japanese: だいがく
+    english: college; university
+    kanji: 大学
+  - japanese: こうこう
+    english: high school
+    kanji: 高校
+  - japanese: がくせい
+    english: student
+    kanji: 学生
+  - japanese: だいがくせい
+    english: college student
+    kanji: 大学生
+  - japanese: りゅうがくせい
+    english: international student
+    kanji: 留学生
+  - japanese: せんせい
+    english: teacher; Professor ...
+    kanji: 先生
+  - japanese: 〜ねんせい
+    english: '... year student'
+    kanji: 〜年生
+  - japanese: いちねんせい
+    english: first-year student
+    kanji: 一年生
+  - japanese: せんこう
+    english: major
+    kanji: ''
+- category: Person
+  vocabulary:
+  - japanese: わたし
+    english: I
+    kanji: 私
+  - japanese: ともだち
+    english: friend
+    kanji: 友達
+  - japanese: 〜さん
+    english: Mr./Ms. ...
+    kanji: ''
+  - japanese: 〜じん
+    english: '... people'
+    kanji: 人
+  - japanese: にほんじん
+    english: Japanese people
+    kanji: ''
+- category: Time
+  vocabulary:
+  - japanese: いま
+    english: now
+    kanji: 今
+  - japanese: ごぜん
+    english: A.M.
+    kanji: 午前
+  - japanese: ごご
+    english: P.M.
+    kanji: 午後
+  - japanese: 〜じ
+    english: o'clock
+    kanji: 時
+  - japanese: いちじ
+    english: 1 o'clock
+    kanji: ''
+  - japanese: はん
+    english: half
+    kanji: 半
+  - japanese: にじはん
+    english: half past two
+    kanji: ''
+- category: Others
+  vocabulary:
+  - japanese: にほん
+    english: Japan
+    kanji: 日本
+  - japanese: アメリカ
+    english: U.S.A.
+    kanji: ''
+  - japanese: 〜ご
+    english: '... language'
+    kanji: 語
+  - japanese: にほんご
+    english: Japanese language
+    kanji: ''
+  - japanese: 〜さい
+    english: '... years old'
+    kanji: 歳
+  - japanese: でんわ
+    english: telephone
+    kanji: 電話
+  - japanese: 〜ばん
+    english: number ...
+    kanji: ''
+  - japanese: ばんごう
+    english: number
+    kanji: 番号
+  - japanese: なまえ
+    english: name
+    kanji: 名前
+  - japanese: なん／なに
+    english: what
+    kanji: ''
+- category: Expressions
+  vocabulary:
+  - japanese: あのう
+    english: um ...
+    kanji: ''
+  - japanese: はい
+    english: yes
+    kanji: ''
+  - japanese: そうです
+    english: That's right.
+    kanji: ''
+  - japanese: そうですか。
+    english: I see.
+    kanji: ''
+  - japanese: そうですか？
+    english: Is that so?
+    kanji: ''

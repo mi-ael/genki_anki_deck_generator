@@ -1,0 +1,197 @@
+sound_file: Kaiwa_Bunpo_L02/K02_05.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693904100
+sound_silence_threshold: 600
+cards:
+- category: Words_That_Point
+  vocabulary:
+  - japanese: これ
+    english: this one
+    kanji: ''
+  - japanese: それ
+    english: that one
+    kanji: ''
+  - japanese: あれ
+    english: that one (over there)
+    kanji: ''
+  - japanese: どれ
+    english: which one
+    kanji: ''
+  - japanese: この
+    english: this ...
+    kanji: ''
+  - japanese: その
+    english: that ...
+    kanji: ''
+  - japanese: あの
+    english: that ... (over there)
+    kanji: ''
+  - japanese: どの
+    english: which ...
+    kanji: ''
+  - japanese: ここ
+    english: here
+    kanji: ''
+  - japanese: そこ
+    english: there
+    kanji: ''
+  - japanese: あそこ
+    english: over there
+    kanji: ''
+  - japanese: どこ
+    english: where
+    kanji: ''
+  - japanese: だれ
+    english: who
+    kanji: ''
+- category: Food
+  vocabulary:
+  - japanese: おいしい
+    english: delicious
+    kanji: ''
+  - japanese: さかな
+    english: fish
+    kanji: 魚
+  - japanese: とんかつ
+    english: pork cutlet
+    kanji: ''
+  - japanese: にく
+    english: meat
+    kanji: 肉
+  - japanese: メニュー
+    english: menu
+    kanji: ''
+  - japanese: やさい
+    english: vegetable
+    kanji: 野菜
+- category: Things
+  vocabulary:
+  - japanese: かさ
+    english: umbrella
+    kanji: 傘
+  - japanese: かばん
+    english: bag
+    kanji: ''
+  - japanese: くつ
+    english: shoes
+    kanji: 靴
+  - japanese: さいふ
+    english: wallet
+    kanji: 財布
+  - japanese: ジーンズ
+    english: jeans
+    kanji: ''
+  - japanese: じてんしゃ
+    english: bicycle
+    kanji: 自転車
+  - japanese: しんぶん
+    english: newspaper
+    kanji: 新聞
+  - japanese: スマホ
+    english: smartphone; mobile
+    kanji: ''
+  - japanese: Tシャツ
+    english: T-shirt
+    kanji: ''
+  - japanese: とけい
+    english: watch; clock
+    kanji: 時計
+  - japanese: ノート
+    english: notebook
+    kanji: ''
+  - japanese: ペン
+    english: pen
+    kanji: ''
+  - japanese: ぼうし
+    english: hat; cap
+    kanji: 帽子
+  - japanese: ほん
+    english: book
+    kanji: 本
+- category: Places
+  vocabulary:
+  - japanese: ぎんこう
+    english: bank
+    kanji: 銀行
+  - japanese: コンビニ
+    english: convenience store
+    kanji: ''
+  - japanese: トイレ
+    english: toilet; restroom
+    kanji: ''
+  - japanese: としょかん
+    english: library
+    kanji: 図書館
+  - japanese: ゆうびんきょく
+    english: post office
+    kanji: 郵便局
+- category: Countries
+  vocabulary:
+  - japanese: イギリス
+    english: Britain
+    kanji: ''
+  - japanese: かんこく
+    english: Korea
+    kanji: 韓国
+  - japanese: ちゅうごく
+    english: China
+    kanji: 中国
+- category: Majors
+  vocabulary:
+  - japanese: えいご
+    english: English (language)
+    kanji: ''
+  - japanese: けいざい
+    english: economics
+    kanji: ''
+  - japanese: コンピューター
+    english: computer
+    kanji: ''
+  - japanese: ビジネス
+    english: business
+    kanji: ''
+  - japanese: れきし
+    english: history
+    kanji: 歴史
+- category: Family
+  vocabulary:
+  - japanese: おかあさん
+    english: mother
+    kanji: お母さん
+  - japanese: おとうさん
+    english: father
+    kanji: お父さん
+- category: Money_Matters
+  vocabulary:
+  - japanese: いくら
+    english: how much
+    kanji: ''
+  - japanese: 〜えん
+    english: '... yen'
+    kanji: 円
+  - japanese: たかい
+    english: expensive; high
+    kanji: 高い
+- category: Expressions
+  vocabulary:
+  - japanese: いらっしゃいませ
+    english: Welcome (to our store)
+    kanji: ''
+  - japanese: （〜を）おねがいします
+    english: '..., please'
+    kanji: ''
+  - japanese: （〜を）ください
+    english: Please give me ...
+    kanji: ''
+  - japanese: じゃあ
+    english: then ...; if that is the case, ...
+    kanji: ''
+  - japanese: どうぞ
+    english: Please.; Here it is.
+    kanji: ''
+  - japanese: どうも
+    english: Thank you.
+    kanji: ''

@@ -1,0 +1,46 @@
+sound_file: Kaiwa_Bunpo_L01/K01_21.mp3
+only_japanese: 1
+skip_on_beginning: 1
+uid: 693904004
+cards:
+- category: hours
+  vocabulary:
+  - japanese: いちじ 
+    english: 1 o'clock
+    kanji: 一時
+  - japanese: にじ
+    english: 2 o'clock
+    kanji: 二時
+  - japanese: さんじ
+    english: 3 o'clock
+    kanji: 三時
+  - japanese: よじ*
+    english: 4 o'clock
+    kanji: 四時
+  - japanese: ごじ
+    english: 5 o'clock
+    kanji: 五時
+  - japanese: ろくじ
+    english: 6 o'clock
+    kanji: 六時
+  - japanese: しちじ*
+    english: 7 o'clock
+    kanji: 七時
+  - japanese: はちじ
+    english: 8 o'clock
+    kanji: 八時
+  - japanese: くじ*
+    english: 9 o'clock
+    kanji: 九時
+  - japanese: じゅうじ
+    english: 10 o'clock
+    kanji: 十時
+  - japanese: じゅういちじ
+    english: 11 o'clock
+    kanji: 十一時
+  - japanese: じゅうにじ
+    english: 12 o'clock
+    kanji: 十二時
+  - japanese: いちじはん
+    english: '1:30'
+    kanji: 一時半
