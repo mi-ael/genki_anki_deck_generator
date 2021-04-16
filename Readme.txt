@@ -37,6 +37,7 @@ https://ankiweb.net/shared/info/1742947823
 - add Windows support (if you care)
 - extend Deck for Genki II
 - write a better description for the anki deck
+- add devops
 - bugfixes, etc.
 
 # copyright note
