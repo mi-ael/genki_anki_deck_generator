@@ -14,7 +14,7 @@ https://ankiweb.net/shared/info/1742947823
 
 # Project Structure
 - Folders in data/ directory are turned into anki-decks
-- deck generation uses yaml files in temlates/ directory for concrete deck-generation
+- deck generation uses yaml files in templates/ directory
 
 # Template file explanation
 - "sound_file": (string) sound file used for this deck (starts searching in sound/ directory)
