@@ -11,7 +11,7 @@ class Card:
         self.english: str = english
         self.sound_file: str = None
         self.kanjis:str = kanjis
-        self.kanjis_meanings: List[str] = []
+        self.kanjis_meanings: List[str] = ""
         self.category: str = ""
         self.tags: List[str] = []
         self.fuse_with_next: int = 0
@@ -68,7 +68,17 @@ class Deck:
     def load_kanji_meaning_data(self):
         for c in self.cards:
             if c.kanjis != "":
-                c.kanjis_meanings = [fetch_kanji_meanings(k) for k in filter(lambda x: x != '.', c.kanjis)]
+                meanings = [fetch_kanji_meanings(k) for k in filter(lambda x: x != '.', c.kanjis)]
+                kanji_meaning_string = ""
+                last_has_meaning = True # so that no '-' gets insterted at the beginning
+                for meaning, found_meaning in meanings:
+                    if last_has_meaning == False and found_meaning == True:
+                        kanji_meaning_string += ' - '
+                    kanji_meaning_string += meaning
+                    if found_meaning and meaning is not meanings[-1][0]:
+                        kanji_meaning_string += ' - '
+                    last_has_meaning = found_meaning
+                c.kanjis_meanings = kanji_meaning_string
 
     @staticmethod
     def parse_vocab(subtag, deck, cat, c, skip_index) -> int:

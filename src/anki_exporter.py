@@ -76,7 +76,7 @@ def gen_deck(deck: Deck, deckpath: str, model: genanki.Model) -> genanki.Deck:
                 c.kanjis, 
                 "", 
                 c.english, 
-                " - ".join([m for m in c.kanjis_meanings]),
+                c.kanjis_meanings,
                 f"[sound:{c.sound_file.name}]" if c.sound_file is not None else "",
                 str(i),
                 f'{full_name}_{i}'

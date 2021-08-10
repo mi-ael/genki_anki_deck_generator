@@ -1,3 +1,4 @@
+from typing import Tuple
 import requests
 import json
 
@@ -16,7 +17,7 @@ def fetch_kanjis(kana: str):
 
 kanji_dict = None
 
-def fetch_kanji_meanings(kanji: str):
+def fetch_kanji_meanings(kanji: str) -> Tuple[str, bool]:
     global kanji_dict
     if kanji_dict is None:
         answer = requests.get('https://raw.githubusercontent.com/davidluzgouveia/kanji-data/master/kanji-wanikani.json')
@@ -25,5 +26,5 @@ def fetch_kanji_meanings(kanji: str):
     if kanji not in kanji_dict.keys():
         #print(f"unknown kanji: {kanji} ")
         #return "[unknown kanji]"
-        return kanji
-    return kanji_dict[kanji]
+        return kanji, False
+    return kanji_dict[kanji], True
