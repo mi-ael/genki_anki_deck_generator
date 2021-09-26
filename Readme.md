@@ -1,5 +1,6 @@
 python projekt for extracting vocabulary sounds from official genki audio files and generating anki decks
-https://ankiweb.net/shared/info/1742947823
+Genki 1: https://ankiweb.net/shared/info/1742947823
+Genki 2 (WIP): https://ankiweb.net/shared/info/969261095
 
 # How to build
 - clone repo
