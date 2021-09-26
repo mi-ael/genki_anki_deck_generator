@@ -1,0 +1,190 @@
+sound_file: Kaiwa_Bunpo_L13/K13_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 700000131
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: おとな
+    english: adult
+    kanji: 大人
+  - japanese: べんごし
+    english: lawyer
+    kanji: 弁護士
+  - japanese: わたくし
+    english: I (formal)
+    kanji: 私(very formal)
+  - japanese: カレー
+    english: curry
+    kanji: ''
+  - japanese: こうちゃ
+    english: black tea
+    kanji: 紅茶
+  - japanese: きもの
+    english: kimono; Japanese traditional dress
+    kanji: 着物
+  - japanese: セーター
+    english: sweater
+    kanji: ''
+  - japanese: がっき
+    english: musical instrument
+    kanji: 楽器
+  - japanese: からて
+    english: karate
+    kanji: 空手
+  - japanese: ゴルフ
+    english: golf
+    kanji: ''
+  - japanese: バイク
+    english: motorcycle
+    kanji: ''
+  - japanese: ぞう
+    english: elephant
+    kanji: 像
+  - japanese: からだ
+    english: body
+    kanji: 体
+  - japanese: がいこくご
+    english: foreign language
+    kanji: 外国語
+  - japanese: ことば
+    english: language (words)
+    kanji: 言葉
+  - japanese: ぶんぼう
+    english: grammar
+    kanji: 文法
+  - japanese: アプリ
+    english: application
+    kanji: ''
+  - japanese: アパート
+    english: apartment; smaller apartment building
+    kanji: ''
+  - japanese: マンション
+    english: larger apartment building; condominium
+    kanji: ''
+  - japanese: くうこう
+    english: airport
+    kanji: 空港
+  - japanese: みせ
+    english: shop; store
+    kanji: 店
+  - japanese: ぶっか
+    english: consumer prices
+    kanji: 物価
+  - japanese: こうこく
+    english: advertisement
+    kanji: 広告
+  - japanese: ぼしゅう
+    english: recruitment
+    kanji: 募集
+  - japanese: やくそく
+    english: promise; appointment
+    kanji: 約束
+- category: い-adjectives
+  vocabulary:
+  - japanese: うれしい
+    english: glad
+    kanji: 嬉しい
+  - japanese: かなしい
+    english: sad
+    kanji: 悲しい
+  - japanese: きびしい
+    english: strict
+    kanji: 厳しい
+  - japanese: きぶんがわるい
+    english: to feel sick
+    kanji: 気分が悪い
+  - japanese: からい
+    english: hot and spicy; salty
+    kanji: 辛い
+  - japanese: すごい
+    english: incredible; awesome
+    kanji: 凄い(rare)
+  - japanese: ちかい
+    english: close; near
+    kanji: 近い
+- category: な-adjectives
+  vocabulary:
+  - japanese: いろいろ(な)
+    english: various; different kinds of
+    kanji: 色々
+  - japanese: しおわせ(な)
+    english: happy (lasting happiness)
+    kanji: 幸せ
+  - japanese: だめ(な)
+    english: no good
+    kanji: 駄目(rare)
+- category: U-verbs
+  vocabulary:
+  - japanese: おむ
+    english: to knit (~を)
+    kanji: 編む
+  - japanese: がんばる
+    english: to do one’s best; to try hard
+    kanji: 頑張る
+  - japanese: なく
+    english: to cry
+    kanji: 泣く
+  - japanese: みがく
+    english: to brush (teeth); to polish (~を)
+    kanji: 磨く
+  - japanese: やくそくをまもる
+    english: to keep a promise (lit.”protect a promise”)
+    kanji: 約束を守る
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: かんどうする
+    english: to be moved; touched (by …) (~に)
+    kanji: 感動する
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: 〜かい
+    english: ...times
+    kanji: 〜回
+  - japanese: 〜キロ
+    english: ...kilometers; ...kilograms
+    kanji: ''
+  - japanese: ぜんぶ
+    english: all
+    kanji: 全部
+  - japanese: 〜ともうします
+    english: my name is ~
+    kanji: 〜と申します
+  - japanese: とくに
+    english: especially
+    kanji: 特に
+- category: Numbers
+  vocabulary:
+  - japanese: いちにち
+    english: one day
+    kanji: 一日
+  - japanese: ふつか
+    english: two days
+    kanji: 二日
+  - japanese: みっか
+    english: three days
+    kanji: 三日
+  - japanese: よっか
+    english: four days
+    kanji: 四日
+  - japanese: いつか
+    english: five days
+    kanji: 五日
+  - japanese: むいか
+    english: six days
+    kanji: 六日
+  - japanese: なのか
+    english: seven days
+    kanji: 七日
+  - japanese: ようか
+    english: eight days
+    kanji: 八日
+  - japanese: ここのか
+    english: nine days
+    kanji: 九日
+  - japanese: とおか
+    english: ten days
+    kanji: 十日
