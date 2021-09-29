@@ -10,7 +10,7 @@ class Card:
         self.japanese: str = japanese
         self.english: str = english
         self.sound_file: str = None
-        self.kanjis:str = kanjis
+        self.kanjis:str = kanjis if kanjis != japanese else ""
         self.kanjis_meanings: List[str] = ""
         self.category: str = ""
         self.tags: List[str] = []
