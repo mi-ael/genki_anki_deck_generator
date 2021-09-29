@@ -113,6 +113,7 @@ cards:
   - japanese: ほ（う）っておく
     english: to leave (someone/something) alone; to neglect (～を)
     kanji: 放っておく
+    skip_on_semikolon: 2
   - japanese: まにあう
     english: to be in time  (～に)
     kanji: 間に合う

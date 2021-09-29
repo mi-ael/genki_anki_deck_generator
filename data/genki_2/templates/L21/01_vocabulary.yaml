@@ -81,6 +81,7 @@ cards:
   - japanese: めちゃくちゃ(な)
     english: messy; disorganized
     kanji: 目茶苦茶（rare）
+    skip_on_semikolon: False
   - japanese: へん(な)
     english: strange; unusual
     kanji: 変

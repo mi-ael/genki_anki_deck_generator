@@ -78,6 +78,7 @@ cards:
     kanji: 暗い
   - japanese: はずかしい
     english: embarrasing
+    skip_on_semikolon: 1
     kanji: 恥ずかしい
 - category: な-adjectives
   vocabulary:
@@ -176,6 +177,7 @@ cards:
   - japanese: どうしよう
     english: What should I/we do?
     kanji: ''
+    skip_on_semikolon: 1
   - japanese: ～（ん）だろう
     english: short form of ～（ん）でしょう
     kanji: ''

@@ -1,4 +1,4 @@
-sound_file: Kaiwa_Bunpo_L17/K17_07.mp3
+sound_file: Kaiwa_Bunpo_L17/K17_05.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
@@ -97,6 +97,7 @@ cards:
   - japanese: すくない
     english: a little; a few
     kanji: 少ない
+    skip_on_semikolon: False
   - japanese: つごうがわるい
     english: inconvenient; to have a scheduling conflict
     kanji: 都合が悪い
