@@ -3,7 +3,7 @@ skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
 skip_on_semikolon: true
-uid: 700000131
+uid: 693905200
 sound_silence_threshold: 600
 cards:
 - category: Nouns
@@ -81,8 +81,9 @@ cards:
     english: recruitment
     kanji: 募集
   - japanese: やくそく
-    english: promise, appointment
+    english: promise; appointment
     kanji: 約束
+    skip_on_semikolon: false
 - category: い-adjectives
   vocabulary:
   - japanese: うれしい
