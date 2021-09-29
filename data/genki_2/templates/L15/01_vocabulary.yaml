@@ -1,5 +1,5 @@
 sound_file: Kaiwa_Bunpo_L15/K15_07.mp3
-skip_words: []
+#skip_words: [87]
 skip_on_beginning: 2
 skip_with_new_category: true
 skip_on_semikolon: true
@@ -45,7 +45,7 @@ cards:
     english: earthquake
     kanji: 地震
   - japanese: ほけん
-    english: to buy insurance
+    english: insurance
     kanji: 保険
   - japanese: ぜいきん
     english: tax
@@ -126,6 +126,7 @@ cards:
   - japanese: きをつける
     english: to be cautious/careful(〜に)
     kanji: 気をつける
+    skip_on_semikolon: 1
   - japanese: しらべる
     english: to look into (matterを)
     kanji: 調べる
@@ -160,6 +161,7 @@ cards:
   - japanese: 〜め
     english: 〜-th
     kanji: 〜目
+    sound_silence_threshold_english: 200
   - japanese: いちにちめ
     english: first day
     kanji: 一日目
@@ -175,3 +177,4 @@ cards:
   - japanese: たのしみたい
     english: cannot wait; look forward to it
     kanji: 楽しみたい
+    #skip_on_semikolon: 1
