@@ -15,6 +15,8 @@ class Card:
         self.category: str = ""
         self.tags: List[str] = []
         self.fuse_with_next: int = 0
+        self.custom_threshold_eng: int = 0
+        self.custom_threshold_jap: int = 0
     
     def get_beautyfied_english_name(self):
         name = self.english.\
@@ -88,6 +90,8 @@ class Deck:
             card.category = cat
             card.tags.append(cat)
             card.fuse_with_next = e.get("fuse_with_next", 0)
+            card.custom_threshold_eng = e.get("sound_silence_threshold_english", None)
+            card.custom_threshold_jap = e.get("sound_silence_threshold_japanese", None)
             if subtag is not None:
                 card.tags.append(subtag)
             deck.cards.append(card)

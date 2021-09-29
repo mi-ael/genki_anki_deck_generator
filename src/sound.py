@@ -64,7 +64,22 @@ def extract_japanese_words_from_soundfile_and_save(dst_dir: Path, deck: Deck, sa
         card_index = vocab_index // 2
         if deck.only_japanese:
             card_index = vocab_index
-        card = cards[card_index]
+        card = cards[card_index] if not skip_file else None # todo fix
+        if card is not None and card.custom_threshold_eng is not None and next_word_jap == False:
+            name = export_sound_file(sound, None, "split")
+            new_words = extract_words_from_soundfile(name, card.custom_threshold_eng)
+            del words[sound_index]
+            for w in reversed(new_words):
+                words.insert(sound_index, w)
+            sound = words[sound_index]
+        if card is not None and card.custom_threshold_jap is not None and next_word_jap == True:
+            name = export_sound_file(sound, None, "split")
+            new_words = extract_words_from_soundfile(name, card.custom_threshold_jap)
+            del words[sound_index]
+            for w in reversed(new_words):
+                words.insert(sound_index, w)
+            sound = words[sound_index]
+
         if skip_file == True: # skip
             if save_all:
                 export_sound_file(sound, None, "skiped")
