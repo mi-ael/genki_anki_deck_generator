@@ -1,0 +1,175 @@
+sound_file: Kaiwa_Bunpo_L19/K19_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693905800
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: おくさま
+    english: wife (polite)
+    kanji: 奥様
+  - japanese: おこさん
+    english: child (polite)
+    kanji: お子さん
+  - japanese: ぎゅうがくせい
+    english: junior high school student
+    kanji: 中学生
+  - japanese: ぶちょう
+    english: department manager
+    kanji: 部長
+  - japanese: しゅっちょう
+    english: business trip
+    kanji: 出張
+  - japanese: けいご
+    english: honorific language
+    kanji: 敬語
+  - japanese: こちら
+    english: this way (polite)
+    kanji: 此方（rare）
+  - japanese: どちら
+    english: where (polite)
+    kanji: 何方（rare）
+  - japanese: おれい
+    english: expression of gratitude
+    kanji: お礼
+  - japanese: しゅるい
+    english: a kind; a sort
+    kanji: 種類
+  - japanese: はなし
+    english: talk; story
+    kanji: 話
+  - japanese: なやみ
+    english: worry
+    kanji: 悩み
+  - japanese: まちがい
+    english: mistake
+    kanji: 間違い
+  - japanese: せいがく
+    english: personality
+    kanji: 性格
+  - japanese: なまけもの
+    english: lazy person
+    kanji: 怠け者
+  - japanese: はずかしがりや
+    english: shy person
+    kanji: 恥ずかしがり屋
+- category: い-adjectives
+  vocabulary:
+  - japanese: なかがいい
+    english: be on good/close terms; to get along well
+    kanji: 仲がいい
+- category: な-adjectives
+  vocabulary:
+  - japanese: まじめ(な)
+    english: serious; sober; diligent
+    kanji: 真面目（rare）
+- category: U_verbs
+  vocabulary:
+  - japanese: いらっしゃる
+    english: honorific expression for いく、くる、and いろ
+    kanji: ''
+  - japanese: めしあがる
+    english: honorific expression for たべる、のむ
+    kanji: 召し上がる
+  - japanese: くださる
+    english: honorific expression for くれる
+    kanji: 下さる
+  - japanese: なさる
+    english: honorific expression for する
+    kanji: 為さる（rare）
+  - japanese: おやすみになる
+    english: honorific expression for ねる
+    kanji: お休みになる
+  - japanese: ごらんいなる
+    english: honorific expression for みる
+    kanji: ご覧になる
+  - japanese: おっしゃる
+    english: honorific expression for いう
+    kanji: 仰る（rare）
+  - japanese: ～ていらっしゃる
+    english: honorific expression for ～ている
+    kanji: ''
+  - japanese: おくる
+    english: to walk/drive (someone) (personをplaceまで)
+    kanji: 送る
+  - japanese: おこる
+    english: to get angry
+    kanji: 怒る
+  - japanese: きまる
+    english: to be decided (～が)
+    kanji: 決まる
+  - japanese: しりあう
+    english: to get acquanted with (～と)
+    kanji: 知り合う
+  - japanese: よぶ
+    english: to call (one's name) (～と); to invite (person を event に)
+    kanji: 呼ぶ
+  - japanese: ひっこす
+    english: to move (to another place to live) (～に)
+    kanji: 引っ越す
+- category: Ru-verbs
+  vocabulary:
+  - japanese: よる
+    english: to stop by (place に)
+    kanji: 寄る
+  - japanese: おくれる
+    english: to become late (～に)
+    kanji: 遅れる
+  - japanese: かける
+    english: to sit down (seat に)
+    kanji: 掛ける（rare）
+  - japanese: もてる
+    english: to be popular (in terms of romantic interest) (people に)
+    kanji: 持てる（rare、モテル also common）
+  - japanese: はれる
+    english: to be come sunny
+    kanji: 晴れる
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: ごちそうする
+    english: to treat/invite (someone) to a meal (person に meal を)
+    kanji: ご馳走する（rare）
+  - japanese: えんりょする
+    english: to hold back for the time being; to refrain from
+    kanji: 遠慮する
+  - japanese: しょうたいする
+    english: to invite someone (to an event/a place) (person を event に)
+    kanji: 招待する
+  - japanese: はなしをする
+    english: to have a talk
+    kanji: 話をする
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: おととい
+    english: the day before yesterday
+    kanji: 一昨日（rare）
+  - japanese: まいあさ
+    english: every morning
+    kanji: 毎朝
+  - japanese: それで
+    english: then; therefore
+    kanji: 其れで（rare）
+  - japanese: なぜ
+    english: why (=どうして)
+    kanji: 何故（rare）
+  - japanese: ほんとうは
+    english: in fact; originally
+    kanji: 本当は
+  - japanese: まだ
+    english: still
+    kanji: 未だ（rare）
+  - japanese: しょうしょう
+    english: a few second
+    kanji: 少々
+  - japanese: ～めいさま
+    english: a party of ... People
+    kanji: ～名様
+  - japanese: ようこそ
+    english: welcome
+    kanji: ''
+  - japanese: よろしくあったえください
+    english: please give my best regards (to…) (～に)
+    kanji: よろしくお伝えください

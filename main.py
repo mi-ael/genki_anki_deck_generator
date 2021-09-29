@@ -77,7 +77,7 @@ if __name__ == "__main__":
 
     data_path = Path('data')
     for d in data_path.iterdir():
-        if d.name == "genki_1": continue
+        #if d.name == "genki_1": continue
         #if d.name == "genki_2": continue
         if not d.is_dir():
             continue

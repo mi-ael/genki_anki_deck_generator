@@ -1,0 +1,160 @@
+sound_file: Kaiwa_Bunpo_L20/K23_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693906200
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: くつした
+    english: socks
+    kanji: 靴下
+  - japanese: ふくる
+    english: sack; plastic/paper bag
+    kanji: 袋
+  - japanese: ただ
+    english: free of charge
+    kanji: 只（rare）
+  - japanese: ゆうしょく
+    english: dinner
+    kanji: 夕食
+  - japanese: ばしょ
+    english: place
+    kanji: 場所
+  - japanese: かいだん
+    english: stairs
+    kanji: 階段
+  - japanese: しょうがっこう
+    english: elementary school
+    kanji: 小学校
+  - japanese: めんせつ
+    english: interview
+    kanji: 面接
+  - japanese: けんこう
+    english: health
+    kanji: けんこう
+  - japanese: りそう
+    english: ideal
+    kanji: りそう
+  - japanese: るそばん
+    english: looking after a house during someone's absence
+    kanji: るすばん
+  - japanese: メッセージ
+    english: message; text
+    kanji: ''
+  - japanese: きゅうこう
+    english: class cancellation
+    kanji: 休講
+  - japanese: かいがいりょこう
+    english: trip to a foreign country
+    kanji: 海外旅行
+  - japanese: ぼんおどり
+    english: Bon dance (Japanese traditional dance)
+    kanji: 盆踊り
+  - japanese: おもいで
+    english: memory
+    kanji: 思い出
+  - japanese: しゃかい
+    english: society
+    kanji: 社会
+  - japanese: けっか
+    english: result
+    kanji: 結果
+  - japanese: ちょうさ
+    english: survey
+    kanji: 調査
+- category: い-adjectives
+  vocabulary:
+  - japanese: まずい
+    english: (food is) terrible
+    kanji: 不味い（rare）
+- category: な-adjectives
+  vocabulary:
+  - japanese: かわいそう(な)
+    english: pitiful; feel sorry for; poor thing
+    kanji: 可哀相（rare）
+- category: U-verbs
+  vocabulary:
+  - japanese: あめがやむ
+    english: the rain stops
+    kanji: （rare：雨が止む）
+  - japanese: ちがう
+    english: to be different; to be wrong (～と)
+    kanji: 違う
+  - japanese: なくなる
+    english: to be lost; to disappear (～が)
+    kanji: 無くなる（rare）
+  - japanese: いなくなる
+    english: (someone) is gone; to disappear (～が)
+    kanji: （rare）
+  - japanese: おせわになる
+    english: to be in someone's care (～に)
+    kanji: お世話になる
+  - japanese: おなかをこわす
+    english: to have a stomache
+    kanji: お腹を壊す（rare）
+  - japanese: きにいる
+    english: to find something agreeable (～が/を)
+    kanji: 気に入る
+  - japanese: わるぐちをいう
+    english: to talk behind someone's back
+    kanji: 悪口を言う
+- category: Ru-verbs
+  vocabulary:
+  - japanese: こたえる
+    english: to answer (～に)
+    kanji: 答える
+  - japanese: はなれる
+    english: (something/someonse) seperates; parts from (～と)
+    kanji: 離れる
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: がっかりする
+    english: to be dissapointed (～に)
+    kanji: ガッカリする（hiragana is more common）
+  - japanese: がまんする
+    english: to be tolerant/patient (～を)
+    kanji: 我慢する
+  - japanese: どうじょうする
+    english: to sympathize (～に)
+    kanji: 同情する
+  - japanese: ～かおをする
+    english: to look… (facial expression)
+    kanji: ～顔をする
+  - japanese: カンニングする
+    english: to cheat in an exam
+    kanji: ''
+  - japanese: チェックする
+    english: to check (～を)
+    kanji: ''
+  - japanese: せわをする
+    english: to take care of…(～の)
+    kanji: 世話をする
+  - japanese: もどってくる
+    english: to win a championship
+    kanji: 優勝する
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: そんな～
+    english: such…; that kind of…
+    kanji: 戻ってくる
+  - japanese: ～ために
+    english: for…; for the sake of…
+    kanji: ''
+  - japanese: ものすごく
+    english: extremely
+    kanji: ''
+  - japanese: そろそろ
+    english: it is about time to...
+    kanji: ソロソロ(hiragana is more common)
+  - japanese: さいごに
+    english: finally
+    kanji: 最後に
+  - japanese: げんきでね
+    english: Take care of yourself.
+    kanji: 元気でね
+  - japanese: そうそう
+    english: You are right.
+    kanji: 然う然う（rare）

@@ -1,0 +1,317 @@
+sound_file: Kaiwa_Bunpo_L16/K16_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693905500
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: えきいん（さん）
+    english: station attendant
+    kanji: 駅員（さん）
+  - japanese: おや
+    english: parent
+    kanji: 親
+  - japanese: しんせき
+    english: relatives
+    kanji: 親せき
+  - japanese: ごみ
+    english: garbage
+    kanji: 塵（rare, ゴミ is common）
+  - japanese: さとう
+    english: sugar
+    kanji: 砂糖
+  - japanese: おおきさ
+    english: size
+    kanji: 大きさ
+  - japanese: ファイル
+    english: (file) folder; portfolio; file
+    kanji: ''
+  - japanese: みち
+    english: way; road; directions
+    kanji: 道
+  - japanese: きまつしけん
+    english: final examination
+    kanji: 期末試験
+  - japanese: けんきゅう
+    english: research
+    kanji: 研究
+  - japanese: だいがくいん
+    english: graduate school
+    kanji: 大学院
+  - japanese: しょうかくきん
+    english: scholarship
+    kanji: 奨学金
+  - japanese: すいせんじょう
+    english: letter of recommendation
+    kanji: 推薦状
+  - japanese: たいふう
+    english: typhoon
+    kanji: 台風
+  - japanese: ぶんか
+    english: culture
+    kanji: 文化
+  - japanese: へんじ
+    english: reply
+    kanji: 返事
+  - japanese: ひ
+    english: day
+    kanji: 日
+- category: い-adjectives
+  vocabulary:
+  - japanese: きたない
+    english: dirty
+    kanji: 汚い
+- category: U-verbs
+  vocabulary:
+  - japanese: おこす
+    english: to wake (someone) up (～を)
+    kanji: 起こす
+  - japanese: おごる
+    english: to treat (someone) to a meal (person に meal を)
+    kanji: 奢る（rare）
+  - japanese: わらう
+    english: to laugh
+    kanji: 笑う
+  - japanese: おちこむ
+    english: to get depressed
+    kanji: 落ち込む
+  - japanese: こまる
+    english: to have difficulty (to be troubled)
+    kanji: 困る
+  - japanese: だす
+    english: to take (something) out; to hand in (something) (～を)
+    kanji: 出す
+  - japanese: なおす
+    english: to correct; to fix (～を)
+    kanji: 直す
+  - japanese: みつかる
+    english: to be found (～が)
+    kanji: 見つかる
+  - japanese: やくす
+    english: to translate (source を target に)
+    kanji: 訳す
+  - japanese: かす
+    english: to lend (person に thing を)
+    kanji: 貸す
+  - japanese: つれていく
+    english: to take (someone) to (a place)  (person を place に)
+    kanji: 連れていく
+  - japanese: みちにまよう
+    english: to become lost; to lose one's way
+    kanji: 道に迷う
+  - japanese: むかえにいく
+    english: to go to pickup  (place まで/ person を)
+    kanji: 迎えに行く
+- category: Ru-verbs
+  vocabulary:
+  - japanese: あつめる
+    english: to collect (～を)
+    kanji: 集める
+  - japanese: いれる
+    english: to put (something) in (thing を place に)
+    kanji: 入れる
+  - japanese: みせる
+    english: to show (person に thing を)
+    kanji: 見せる
+  - japanese: のりおくれる
+    english: to miss (a train, bus, etc.) (～に)
+    kanji: 乗り遅れる
+  - japanese: アイロンをかける
+    english: to iron (clothes) (～に)
+    kanji: アイロンを掛ける（rare）
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: あさねぼうする
+    english: to oversleep
+    kanji: 朝寝坊する
+  - japanese: あんないする
+    english: to show (someone) around  (place を)
+    kanji: 案内する
+  - japanese: せつめいする
+    english: to explain
+    kanji: 説明する
+  - japanese: むかえにくる
+    english: to come to pickup (place まで/に person を)
+    kanji: 迎えに来る
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: きょうじゅうに
+    english: by the end of today
+    kanji: 今日中に
+  - japanese: じゅぎょうちゅうに
+    english: in class; during the class
+    kanji: 授業中に
+  - japanese: このあいだ
+    english: the other day
+    kanji: この間
+  - japanese: これから
+    english: from now on
+    kanji: 此れから（rare）
+  - japanese: このぐらい
+    english: about this much (=これぐらい/このくらい/これくらい)
+    kanji: 此の位（rare）
+  - japanese: じぶんで
+    english: (do something) by oneself
+    kanji: 自分で
+  - japanese: ほかの
+    english: other
+    kanji: 他の
+  - japanese: ええと
+    english: well…; let me see…
+    kanji: ''
+  - japanese: じつは
+    english: actually; in fact
+    kanji: 実は
+  - japanese: ～いがい
+    english: other than…
+    kanji: ～以外
+  - japanese: ごめん
+    english: I'm sorry. (casual)
+    kanji: 御免（rare）
+  - japanese: しつれいします
+    english: Excuse me; Sorry to interrupt you
+    kanji: 失礼します
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: 
+    english: ''
+    kanji: ''
+  - japanese: おめだとうございます
+    english: Congratulations!
+    kanji: お目出度う御座います(rare)

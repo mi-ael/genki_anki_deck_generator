@@ -1,0 +1,190 @@
+sound_file: Kaiwa_Bunpo_L22/K22_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693906100
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: かぜ
+    english: wind
+    kanji: 風
+  - japanese: き
+    english: tree
+    kanji: 木
+  - japanese: ボール
+    english: ball
+    kanji: ''
+  - japanese: さる
+    english: monkey
+    kanji: 猿
+  - japanese: めんきょ
+    english: license
+    kanji: 免許
+  - japanese: よしゅう
+    english: perperation of a lesson
+    kanji: 予習
+  - japanese: ふくしゅう
+    english: review of a lesson
+    kanji: 復習
+  - japanese: じゅく
+    english: cram school
+    kanji: 塾
+  - japanese: えいかいわ
+    english: English conversation
+    kanji: 英会話
+  - japanese: あいて
+    english: partner; the other person
+    kanji: 相手
+  - japanese: おじょうさん
+    english: (someone's) daughter (polite)
+    kanji: お嬢さん
+  - japanese: かみさま
+    english: God
+    kanji: 神様
+  - japanese: せんぱい
+    english: senior member of a group
+    kanji: 先輩
+  - japanese: こうはい
+    english: junior member of a groups
+    kanji: 後輩
+  - japanese: ぶか
+    english: subordinate
+    kanji: 部下
+  - japanese: うけつけ
+    english: reception desk
+    kanji: 受付
+  - japanese: しょろい
+    english: document
+    kanji: 書類
+  - japanese: プロジェクト
+    english: project
+    kanji: ''
+  - japanese: かじ
+    english: house work
+    kanji: 家事
+  - japanese: ヨーロッパ
+    english: Europe
+    kanji: 欧羅巴（rare）
+  - japanese: ひとりぐらし
+    english: living alone
+    kanji: 一人暮らし
+  - japanese: じゆう
+    english: freedom
+    kanji: 自由
+  - japanese: むだｄずかい
+    english: waste (money)
+    kanji: 無駄遣い
+- category: い-adjectives
+  vocabulary:
+  - japanese: うるさい
+    english: noisy; annoying
+    kanji: 煩い（rare）
+- category: な-adjectives
+  vocabulary:
+  - japanese: しんぱい(な)
+    english: worried about (～が)
+    kanji: 心配
+  - japanese: びんぼう(な)
+    english: poor
+    kanji: 貧乏
+  - japanese: ぺラぺラ(な)
+    english: fluent (language が)
+    kanji: ''
+  - japanese: らく(な)
+    english: easy; comfortable
+    kanji: 楽
+- category: U-verbs
+  vocabulary:
+  - japanese: かぜがふく
+    english: the wind blows
+    kanji: 風が吹く
+  - japanese: コピーをとる
+    english: to make a photocopy
+    kanji: コピーを取る
+  - japanese: はこぶ
+    english: to carry (～を)
+    kanji: 運ぶ
+  - japanese: ひろう
+    english: to pick (something) (～を)
+    kanji: 拾う
+  - japanese: ほ（う）っておく
+    english: to leave (someone/something) alone; to neglect (～を)
+    kanji: 放っておく
+  - japanese: まにあう
+    english: to be in time  (～に)
+    kanji: 間に合う
+  - japanese: かつ
+    english: to win (～に)
+    kanji: 勝
+- category: Ru-verbs
+  vocabulary:
+  - japanese: うける
+    english: to take (an examination)  (～を)
+    kanji: 受ける
+  - japanese: けいかくをたてる
+    english: to make a plan
+    kanji: 計画を立てる
+  - japanese: そだてう
+    english: to raise; to bring up (～を)
+    kanji: 育てる
+  - japanese: たすける
+    english: to help; to rescue (～を)
+    kanji: 助ける
+  - japanese: まける
+    english: to lose (a match) (～に)
+    kanji: 負ける
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: おねがいする
+    english: to requestion help (person に～を)
+    kanji: お願いする
+  - japanese: さんせいする
+    english: to agree (～に)
+    kanji: 賛成する
+  - japanese: はんたいする
+    english: to oppose; to object to (～に)
+    kanji: 反対する
+  - japanese: しっぱいする
+    english: to fail; to be unsuccessful
+    kanji: 失敗する
+  - japanese: てつやする
+    english: to stay up all night
+    kanji: 徹夜する
+  - japanese: ほにゃくする
+    english: to translate (source と target に)
+    kanji: 翻訳する
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: こんなふう
+    english: like this
+    kanji: こんな風に（rare）
+  - japanese: じゆうに
+    english: freely
+    kanji: 自由に（rare）
+  - japanese: ずっと
+    english: for a long time; all the time
+    kanji: ''
+  - japanese: ぜったいに
+    english: definitely
+    kanji: 絶対に
+  - japanese: なんども
+    english: many times
+    kanji: 何度も
+  - japanese: もうすこし
+    english: a little more
+    kanji: もう少し
+  - japanese: ～とか
+    english: …for example
+    kanji: ''
+  - japanese: そんなこと（は）ない
+    english: I don't think so.
+    kanji: そんな事はない（rare）
+  - japanese: ～ちゃん
+    english: suffix for the names of children
+    kanji: ''
+  - japanese: おおくの～
+    english: many…
+    kanji: 多くの～

@@ -1,0 +1,180 @@
+sound_file: Kaiwa_Bunpo_L14/K14_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693905300
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: おくさん
+    english: wife (honorific)
+    kanji: 奥さん
+  - japanese: ごしゅじん
+    english: husband (honorific)
+    kanji: ご主人
+  - japanese: パートナー
+    english: partner
+    kanji: ''
+  - japanese: おじさん
+    english: uncle; middle-aged man
+    kanji: 伯父さん(rare)
+  - japanese: おばさん
+    english: aunt; middle-aged woman
+    kanji: 伯母さん(rare)
+  - japanese: りょうしん
+    english: parents
+    kanji: 両親
+  - japanese: おおやさん
+    english: landlord; landlady
+    kanji: 大家さん
+  - japanese: みなさん
+    english: everyone; all of you
+    kanji: 皆さん
+  - japanese: チョコレート
+    english: chocolate
+    kanji: ''
+  - japanese: みかん
+    english: mandarin orange
+    kanji: 蜜柑(rare)
+  - japanese: トレーナー
+    english: sweatshirt
+    kanji: ''
+  - japanese: シヤツ
+    english: shirt
+    kanji: ''
+  - japanese: ネクタイ
+    english: necktie
+    kanji: ''
+  - japanese: マフラー
+    english: winter scarf
+    kanji: ''
+  - japanese: ゆびわ
+    english: ring
+    kanji: 指輪
+  - japanese: えんぴつ
+    english: pencil
+    kanji: 鉛筆
+  - japanese: ぬいぐるみ
+    english: stuffed animal (e.g. teddy bear)
+    kanji: 縫いぐるみ(rare)
+  - japanese: まんが
+    english: comic book
+    kanji: 漫画
+  - japanese: けしょうひん
+    english: cosmetics
+    kanji: 化粧品
+  - japanese: ラジオ
+    english: radio
+    kanji: ''
+  - japanese: おさら
+    english: plate; dish
+    kanji: お皿
+  - japanese: おかえし
+    english: return (as a token of gratitude)
+    kanji: お返し
+  - japanese: りれきしょ
+    english: resume/cv
+    kanji: 履歴書
+  - japanese: クリスマス
+    english: Christmas
+    kanji: ''
+  - japanese: バレンタインデー
+    english: Valantine’s Day
+    kanji: ''
+  - japanese: ホワイトデー
+    english: White Day
+    kanji: ''
+- category: い-adjectives
+  vocabulary:
+  - japanese: ほしい
+    english: to want (desired thing が)
+    kanji: 欲しい
+- category: な-adjectives
+  vocabulary:
+  - japanese: おしゃれ(な)
+    english: fashionable; stylish
+    kanji: お洒落
+  - japanese: けち(な)
+    english: stingy; cheap
+    kanji: ケチ(hiragana is also common)
+- category: U-verbs
+  vocabulary:
+  - japanese: おくる
+    english: to send
+    kanji: 送る
+  - japanese: にあう
+    english: to look good on somebody (thing が）
+    kanji: 似合う
+- category: Ru-verbs
+  vocabulary:
+  - japanese: あきらめる
+    english: to give up (~を)
+    kanji: 諦める
+  - japanese: あげる
+    english: to give (to others) (person に thing を)
+    kanji: 上げる(rare)
+  - japanese: くれる
+    english: To give (to me) (person  thing を)
+    kanji: 呉れる(rare)
+  - japanese: できる
+    english: to come into existence; to be made (~が)
+    kanji: 出来る (rare)
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: そうだんする
+    english: to consult (person に）
+    kanji: 相談する
+  - japanese: ちゅういする
+    english: To give warning (personに); to watch out (~に)
+    kanji: 注意する
+  - japanese: プロポーズする
+    english: to propose marriage (person に)
+    kanji: ''
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: 〜くん
+    english: Mr;Ms. (casual)
+    kanji: 〜君
+  - japanese: 〜たち
+    english: make a noun plural
+    kanji: 〜達(rare)
+  - japanese: わたしたち
+    english: we/us
+    kanji: 私達(私たちis common)
+  - japanese: こんな~
+    english: ...like this; this kind of…
+    kanji: ''
+  - japanese: きゅうに
+    english: suddenly
+    kanji: 急に
+  - japanese: ちょうど
+    english: exactly
+    kanji: 丁度 (rare)
+  - japanese: よく
+    english: well
+    kanji: 良く(rare)
+  - japanese: さあ
+    english: I am not sure…
+    kanji: ''
+  - japanese: どうしたらいい
+    english: what should one do
+    kanji: ''
+- category: Counters
+  vocabulary:
+  - japanese: 〜こ
+    english: generic counter for smaller items
+    kanji: 〜個
+  - japanese: 〜さつ
+    english: counter for bound volumes
+    kanji: 〜冊
+  - japanese: 〜だい
+    english: counter for equipment
+    kanji: 〜台
+  - japanese: 〜ひき
+    english: counter for smaller animals
+    kanji: 〜匹
+  - japanese: 〜ほん
+    english: counter for long objects
+    kanji: 〜本

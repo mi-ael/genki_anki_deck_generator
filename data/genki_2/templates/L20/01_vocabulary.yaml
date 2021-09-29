@@ -1,0 +1,184 @@
+sound_file: Kaiwa_Bunpo_L20/K20_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693905900
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: アニメ
+    english: animation
+    kanji: ''
+  - japanese: しょうせつ
+    english: novel
+    kanji: 小説
+  - japanese: しゅみ
+    english: hobby; pastime
+    kanji: 趣味
+  - japanese: つき
+    english: moon
+    kanji: 月
+  - japanese: うちゅうじん
+    english: space alien
+    kanji: 宇宙人
+  - japanese: せんす
+    english: (hand) fan
+    kanji: 扇子
+  - japanese: スニーカー
+    english: sneakers
+    kanji: ''
+  - japanese: ヘッドホン
+    english: headphones
+    kanji: ''
+  - japanese: おにぎり
+    english: rice ball
+    kanji: お握り（rare）
+  - japanese: どうぶつ
+    english: animal
+    kanji: 動物
+  - japanese: あちら
+    english: that way (polite)
+    kanji: 彼方（rare）
+  - japanese: かかりのもの
+    english: our person in charge
+    kanji: 係りの者
+  - japanese: おたく
+    english: (someone's) home/house
+    kanji: お宅
+  - japanese: ～や
+    english: …shop
+    kanji: ～屋
+  - japanese: してん
+    english: branch office
+    kanji: 支店
+  - japanese: ドイツ
+    english: Germany
+    kanji: 独逸（rare）
+  - japanese: しんごう
+    english: traffic light
+    kanji: 信号
+  - japanese: かど
+    english: corner
+    kanji: 角
+  - japanese: じ
+    english: letter; character
+    kanji: 字
+  - japanese: おと
+    english: sound
+    kanji: 音
+- category: い-adjectives
+  vocabulary:
+  - japanese: おもい
+    english: heavy; serious (illness)
+    kanji: 重い
+  - japanese: かるい
+    english: light
+    kanji: 軽い
+- category: な-adjectives
+  vocabulary:
+  - japanese: ふしぎ(な)
+    english: mysterious
+    kanji: 不思議
+- category: U-verbs
+  vocabulary:
+  - japanese: おる
+    english: extra-modest expression for いる
+    kanji: 居る（rare）
+  - japanese: まいる
+    english: extra-modest expression for いく、くる
+    kanji: 参る
+  - japanese: もうす
+    english: extra-modest expression for いう
+    kanji: 申す
+  - japanese: いたす
+    english: extra-modest expression for する
+    kanji: 致す
+  - japanese: いただく
+    english: extra-modest expression for たべる、のむ
+    kanji: 頂く
+  - japanese: ござる
+    english: extra-modest expression for ある
+    kanji: 御座る
+  - japanese: ～ておる
+    english: extra-modest expression for ～ている
+    kanji: ～て居る（rare）
+  - japanese: ～でござる
+    english: extra-modest expression for です
+    kanji: ～御座る（rare）
+  - japanese: いただく
+    english: humble expression for もらう
+    kanji: 頂く
+  - japanese: うかがう
+    english: (1) to humbly visit (place に); to humbly ask (person に)
+    kanji: 伺う
+  - japanese: まがる
+    english: to turn (right/left) (corner を direction に)
+    kanji: 曲がる
+  - japanese: もどる
+    english: to return; to come back (～に)
+    kanji: 戻る
+- category: Ru-verbs
+  vocabulary:
+  - japanese: さしあげる
+    english: humble expression for あげる
+    kanji: 差し上げる
+  - japanese: きこえる
+    english: to be audible (～が)
+    kanji: 聞こえる
+  - japanese: つたえる
+    english: to convery message (person に)
+    kanji: 伝える
+  - japanese: またせる
+    english: to keep (someone) waiting (～を)
+    kanji: 待たせる
+  - japanese: つづける
+    english: to continue (～を)
+    kanji: 続ける
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: こうかんする
+    english: to exchange (XとYを)
+    kanji: 交換すする
+  - japanese: へんぴんする
+    english: to return (merchandise) (～を)
+    kanji: 返品する
+  - japanese: せいかつする
+    english: to lead a life
+    kanji: 生活する
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: ～かい
+    english: …th floor
+    kanji: ～階
+  - japanese: いっかい
+    english: first floor
+    kanji: 一階
+  - japanese: ～みたいなX
+    english: X like …
+    kanji: ～見たいなX（rare）
+  - japanese: また
+    english: again
+    kanji: 又（rare）
+  - japanese: では
+    english: well then (polite)
+    kanji: ''
+  - japanese: できれば
+    english: if possible
+    kanji: 出来れば（rare）
+  - japanese: まことに
+    english: really (very polite)
+    kanji: 誠に
+  - japanese: よろしかったら
+    english: if it is okay (polite)
+    kanji: 宜しかったら
+  - japanese: かしこまりました
+    english: certainly
+    kanji: 畏まりました（rare）
+  - japanese: しつれいしました
+    english: I'm very sorry
+    kanji: 失礼しました
+  - japanese: もうしわけありません
+    english: You have my apologies (polite)
+    kanji: 申し訳ありません

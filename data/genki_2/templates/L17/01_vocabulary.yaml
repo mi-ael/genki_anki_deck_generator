@@ -1,0 +1,196 @@
+sound_file: Kaiwa_Bunpo_L17/K17_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693905600
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: あかちゃん
+    english: baby
+    kanji: 赤ちゃん
+  - japanese: おきゃくさん
+    english: guest; vistor; client; customer
+    kanji: お客さん
+  - japanese: しゅしょう
+    english: prime minister
+    kanji: 首相
+  - japanese: セラリーマン
+    english: salaryman; office worker
+    kanji: ''
+  - japanese: きゅうりょう
+    english: salary
+    kanji: 給料
+  - japanese: ざんぎょう
+    english: overtime work
+    kanji: 残業
+  - japanese: パンダ
+    english: panda
+    kanji: ''
+  - japanese: コンタクト（レンズ）
+    english: contact lenses
+    kanji: ''
+  - japanese: ひげ
+    english: beard
+    kanji: 髭(rare)
+  - japanese: ブーツ
+    english: boots
+    kanji: ''
+  - japanese: かぎ
+    english: lock; key
+    kanji: 鍵
+  - japanese: たからくじ
+    english: lottery
+    kanji: 宝くじ
+  - japanese: かみ
+    english: paper
+    kanji: 紙
+  - japanese: スプーン
+    english: spoon
+    kanji: ''
+  - japanese: おゆ
+    english: hot water
+    kanji: お湯
+  - japanese: でんしレンジ
+    english: microwave oven
+    kanji: 電子レンジ
+  - japanese: ヒーター
+    english: heater
+    kanji: ''
+  - japanese: ニュース
+    english: news
+    kanji: ''
+  - japanese: かじ
+    english: fire
+    kanji: 火事
+  - japanese: りょこうがいしゃ
+    english: travel agency
+    kanji: 旅行会社
+  - japanese: ショッピングモール
+    english: shopping mail
+    kanji: ''
+  - japanese: りょう
+    english: dormitory
+    kanji: 寮
+  - japanese: ちがい
+    english: difference
+    kanji: 違い
+  - japanese: ひみつ
+    english: secret
+    kanji: 秘密
+  - japanese: じゅんび
+    english: preperation
+    kanji: 準備
+  - japanese: じぶん
+    english: oneself
+    kanji: 自分
+- category: い-adjectives
+  vocabulary:
+  - japanese: あぶない
+    english: dangerous
+    kanji: 危ない
+  - japanese: うらやましい
+    english: envious
+    kanji: 羨ましい
+  - japanese: すくない
+    english: a little; a few
+    kanji: 少ない
+  - japanese: つごうがわるい
+    english: inconvenient; to have a scheduling conflict
+    kanji: 都合が悪い
+  - japanese: つよい
+    english: strong
+    kanji: 強い
+- category: な-adjectives
+  vocabulary:
+  - japanese: さいあく(な)
+    english: the worst
+    kanji: 最悪
+- category: U_verbs
+  vocabulary:
+  - japanese: えらぶ
+    english: to choose; to select (～を)
+    kanji: 選ぶ
+  - japanese: おゆをわかす
+    english: to boil water
+    kanji: お湯を沸かす
+  - japanese: かみをとかす
+    english: to comb one's hair
+    kanji: 髪をとかす
+  - japanese: ひげをそる
+    english: to shave one's beard
+    kanji: 髭を剃る(rare)
+  - japanese: ぬぐ
+    english: to take off (clothes) (～を)
+    kanji: 脱ぐ
+  - japanese: こむ
+    english: to get crowded (～が)
+    kanji: 混む
+  - japanese: たからくじにあたる
+    english: to win a lottery
+    kanji: 宝くじに当たる
+- category: Ru-verbs
+  vocabulary:
+  - japanese: いれる
+    english: to make tea, coffee, etc. (～を)
+    kanji: 入れる
+  - japanese: うまれる
+    english: to be born (～が)
+    kanji: 生まれる
+  - japanese: かぎをかける
+    english: to lock (～に)
+    kanji: 鍵をかける
+  - japanese: たりる
+    english: to be sufficient; to be enough (～が)
+    kanji: 足りる
+  - japanese: なれる
+    english: to get used to… (～に)
+    kanji: 慣れる
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: おいのりする
+    english: to pray (～に)
+    kanji: お祈りする
+  - japanese: けしょうする
+    english: to put makeup on
+    kanji: 化粧する
+  - japanese: しゅうしょくする
+    english: to get a full-time job (at) (companyに)
+    kanji: 就職する
+  - japanese: りこんする
+    english: to get a divorce (personと)
+    kanji: 離婚する
+  - japanese: する
+    english: to wear small items (necktie, watchy, etc.) (～を)
+    kanji: （e.g. ネクタイをする)
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: ずいぶん
+    english: very
+    kanji: 随分(rare)
+  - japanese: たとえば
+    english: for example
+    kanji: 例えば
+  - japanese: ～にくらべて
+    english: compared with…
+    kanji: ～に比べて
+  - japanese: ～によると
+    english: according to…
+    kanji: ''
+  - japanese: まえ
+    english: before…
+    kanji: まえ
+  - japanese: やっぱり
+    english: after all
+    kanji: 矢っ張り(rare)
+  - japanese: ～かな（あ）
+    english: I wonder…(casual)
+    kanji: ''
+  - japanese: そうか
+    english: I see.(casual)
+    kanji: 然うか(rare)
+  - japanese: おめだとうございます
+    english: Congratulations!
+    kanji: お目出度う御座います(rare)

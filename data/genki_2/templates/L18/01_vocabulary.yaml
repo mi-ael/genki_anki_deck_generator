@@ -1,0 +1,187 @@
+sound_file: Kaiwa_Bunpo_L18/K18_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693905700
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: カーテン
+    english: curtain
+    kanji: ''
+  - japanese: ソファ
+    english: sofa
+    kanji: ''
+  - japanese: れいぞうこ
+    english: refrigerator
+    kanji: 冷蔵庫
+  - japanese: スイッチ
+    english: switch
+    kanji: ''
+  - japanese: しょうゆ
+    english: soy sauce
+    kanji: 醤油
+  - japanese: スープ
+    english: soup
+    kanji: ''
+  - japanese: バナナ
+    english: banana
+    kanji: ''
+  - japanese: ポップコーン
+    english: popcorn
+    kanji: ''
+  - japanese: シャンプー
+    english: shampoo
+    kanji: ''
+  - japanese: ろうそく
+    english: candle
+    kanji: 蝋燭（rare）
+  - japanese: タオル
+    english: towel
+    kanji: ''
+  - japanese: スカート
+    english: skirt
+    kanji: ''
+  - japanese: にっき
+    english: diary
+    kanji: 日記
+  - japanese: けいたい（でんわ）
+    english: cell phone
+    kanji: 携帯（電話）
+  - japanese: さくら
+    english: cherry blossom
+    kanji: 桜
+  - japanese: むし
+    english: insect
+    kanji: 虫
+  - japanese: やちん
+    english: rent
+    kanji: 家賃
+  - japanese: そと
+    english: outside
+    kanji: 外
+  - japanese: おと
+    english: the rest
+    kanji: 後
+  - japanese: ゆうがた
+    english: evening
+    kanji: 多方
+- category: い-adjectives
+  vocabulary:
+  - japanese: あかるい
+    english: bright
+    kanji: 明るい
+  - japanese: くらい
+    english: dark
+    kanji: 暗い
+  - japanese: はずかしい
+    english: embarrasing
+    kanji: 恥ずかしい
+- category: な-adjectives
+  vocabulary:
+  - japanese: たいせつ(な)
+    english: precious; important
+    kanji: 大切
+  - japanese: ふあん(な)
+    english: anxious; worried
+    kanji: 不安
+  - japanese: むり(な)
+    english: impossible
+    kanji: 無理
+- category: U_verbs
+  vocabulary:
+  - japanese: あく
+    english: (something) opens (～が)
+    kanji: 開く
+  - japanese: しまる
+    english: (something) closes (～が)
+    kanji: 閉まる
+  - japanese: あやまる
+    english: to apologize (personに)
+    kanji: 謝る
+  - japanese: おす
+    english: to press; to push (～を)
+    kanji: 押す
+  - japanese: おとす
+    english: to drop (something) (~を）
+    kanji: 落とす
+  - japanese: おゆかわく
+    english: water boils
+    kanji: お湯が沸く
+  - japanese: ころぶ
+    english: to fall down
+    kanji: 転ぶ
+  - japanese: こわす
+    english: to break (something) (～を)
+    kanji: 壊す
+  - japanese: さく
+    english: to bloom (～が)
+    kanji: 咲く
+  - japanese: たすかる
+    english: to be saved; to be helped
+    kanji: 助かる
+  - japanese: たのむ
+    english: to ask (a favor) (personに～を)
+    kanji: 頼む
+  - japanese: つく
+    english: (something) turns on (～が)
+    kanji: 点く（rare）
+  - japanese: よごす
+    english: to make dirty （～を）
+    kanji: 汚す
+- category: Ru-verbs
+  vocabulary:
+  - japanese: おちる
+    english: (something) drops (～が)
+    kanji: 落ちる
+  - japanese: かたづける
+    english: to tidy up（～を）
+    kanji: 片付ける
+  - japanese: かんがえる
+    english: to think (about); to consider
+    kanji: 考える
+  - japanese: きえる
+    english: (something) goes off (～が)
+    kanji: 消える
+  - japanese: こわれる
+    english: (something) breaks (～が)
+    kanji: 壊れる
+  - japanese: よごれる
+    english: to become dirty (～が)
+    kanji: 汚れる
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: いますぐ
+    english: to place an order (～を)
+    kanji: 注文する
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: いまでに
+    english: right away
+    kanji: 今すぐ
+  - japanese: ～までに
+    english: by (time/date)
+    kanji: ～迄に（rare）
+  - japanese: ほんとうに
+    english: really
+    kanji: 本当に
+  - japanese: まず
+    english: first of all
+    kanji: 先ず（rare）
+  - japanese: おかげで
+    english: thank to… (…の)
+    kanji: お陰で(rare)
+  - japanese: どうしよう
+    english: What should I/we do?
+    kanji: ''
+  - japanese: ～（ん）だろう
+    english: short form of ～（ん）でしょう
+    kanji: ''
+  - japanese: おさきにしっれいします
+    english: See you. (lit., I'm leaving ahead of you)
+    kanji: お先に失礼します
+  - japanese: おつかれさま（でした）
+    english: You must be tired after working so hard. (greeting between friends and coworkers)
+    kanji: お疲れ様(でした)

@@ -1,0 +1,177 @@
+sound_file: Kaiwa_Bunpo_L15/K15_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693905400
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: がいこくじん
+    english: foreigner
+    kanji: 外国人
+  - japanese: そば
+    english: Soba; Japanese buckwheat noodle (also buckwheat itself)
+    kanji: ''
+  - japanese: え
+    english: painting; picture; drawing
+    kanji: 絵
+  - japanese: ちず
+    english: map
+    kanji: 地図
+  - japanese: じしょ
+    english: dictionary
+    kanji: 字書
+  - japanese: かぐ
+    english: furniture
+    kanji: 家具
+  - japanese: でんち
+    english: battery
+    kanji: 電池
+  - japanese: ジャケット
+    english: jacket
+    kanji: ''
+  - japanese: ペット
+    english: pet
+    kanji: ''
+  - japanese: わりびきけん
+    english: discount coupon
+    kanji: 割引券
+  - japanese: インターネット
+    english: internet (informally ネット)
+    kanji: ''
+  - japanese: じしん
+    english: earthquake
+    kanji: 地震
+  - japanese: ほけん
+    english: to buy insurance
+    kanji: 保険
+  - japanese: ぜいきん
+    english: tax
+    kanji: 税金
+  - japanese: きょうしつ
+    english: classroom
+    kanji: 教室
+  - japanese: たてもの
+    english: building
+    kanji: 建物
+  - japanese: プール
+    english: swimming pool
+    kanji: ''
+  - japanese: えいがかん
+    english: movie theater
+    kanji: 映画館
+  - japanese: りょかん
+    english: inn
+    kanji: 旅館
+  - japanese: にわ
+    english: garden
+    kanji: 庭
+  - japanese: ボランテイア
+    english: volunteer
+    kanji: ''
+  - japanese: かつどう
+    english: activity
+    kanji: 活動
+  - japanese: けいけん
+    english: experience
+    kanji: 経験
+  - japanese: しゅうかん
+    english: custom
+    kanji: 習慣
+  - japanese: しめきり
+    english: deadline
+    kanji: 締め切り
+  - japanese: よてい
+    english: schedule; plan
+    kanji: 予定
+  - japanese: そつぎょうしき
+    english: graduation ceremony
+    kanji: 卒業式
+  - japanese: けっこんしき
+    english: wedding
+    kanji: 結婚式
+- category: U-verbs
+  vocabulary:
+  - japanese: うる
+    english: to sell （〜を）
+    kanji: 売る
+  - japanese: おろす
+    english: to withdraw (money)　（〜を）
+    kanji: 下ろす
+  - japanese: かく
+    english: to draw; to paint　（〜を）
+    kanji: 描く
+  - japanese: さがす
+    english: to look for
+    kanji: 探す
+  - japanese: さそう
+    english: to invite
+    kanji: 誘う
+  - japanese: しゃべる
+    english: to chat
+    kanji: 喋る(rare)
+  - japanese: つきあう
+    english: (1) to date (someone) (personと); (2) to keep company (purpose に）
+    kanji: 付き合う
+  - japanese: つく
+    english: to arrive
+    kanji: 着く
+  - japanese: ほけんにはいる
+    english: to buy insurance
+    kanji: 保険に入る
+- category: Ru-verbs
+  vocabulary:
+  - japanese: きをつける
+    english: to be cautious/careful(〜に)
+    kanji: 気をつける
+  - japanese: しらべる
+    english: to look into (matterを)
+    kanji: 調べる
+  - japanese: みえる
+    english: to be visible(〜が）
+    kanji: 見える
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: する
+    english: to decide on (itemに)
+    kanji: ''
+  - japanese: かんこう
+    english: sightseeing
+    kanji: 観光
+  - japanese: よやくする
+    english: to reserve(〜を)
+    kanji: 予約する
+  - japanese: さんかする
+    english: to participate(~に)
+    kanji: 参加する
+  - japanese: そつぎょうする
+    english: to graduate (school/programを)
+    kanji: 卒業する
+  - japanese: はっぴょうする
+    english: to make a presentation; to make public
+    kanji: 発表する
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: 〜けど
+    english: ...but;...
+    kanji: ''
+  - japanese: 〜め
+    english: 〜-th
+    kanji: 〜目
+  - japanese: いちにちめ
+    english: first day
+    kanji: 一日目
+  - japanese: いちにちじゅう
+    english: all day long
+    kanji: 一日中
+  - japanese: さいきん
+    english: recently
+    kanji: 最近
+  - japanese: もういちどう
+    english: one more time
+    kanji: もう一度う
+  - japanese: たのしみたい
+    english: cannot wait; look forward to it
+    kanji: 楽しみたい

@@ -1,0 +1,187 @@
+sound_file: Kaiwa_Bunpo_L21/K21_07.mp3
+skip_words: []
+skip_on_beginning: 2
+skip_with_new_category: true
+skip_on_semikolon: true
+uid: 693906000
+sound_silence_threshold: 600
+cards:
+- category: Nouns
+  vocabulary:
+  - japanese: ちかん
+    english: groper; pervert
+    kanji: 痴漢（rare）
+  - japanese: どろぼう
+    english: thief; burglar
+    kanji: 泥棒
+  - japanese: はんにん
+    english: criminal
+    kanji: 犯人
+  - japanese: どうりょう
+    english: colleague
+    kanji: 同僚
+  - japanese: かいぎ
+    english: business meeting; conference
+    kanji: 会議
+  - japanese: スピーチ
+    english: speech
+    kanji: ''
+  - japanese: か
+    english: mosquito
+    kanji: 蚊
+  - japanese: ガソリン
+    english: gasoline
+    kanji: ''
+  - japanese: ポスター
+    english: poster
+    kanji: ''
+  - japanese: もんく
+    english: complaint
+    kanji: 文句
+  - japanese: るす
+    english: absence; not at home
+    kanji: 留守
+  - japanese: けいさつ
+    english: police; police station
+    kanji: 警察
+  - japanese: せいふ
+    english: government
+    kanji: 政府
+  - japanese: じゅぎょうりょう
+    english: tuition
+    kanji: 授業料
+  - japanese: こうじょう
+    english: factory
+    kanji: 工場
+  - japanese: かんきょう
+    english: environment
+    kanji: 環境
+  - japanese: しゅうでん
+    english: last train (of the day)
+    kanji: 終電
+  - japanese: こと
+    english: things; matters
+    kanji: 事
+  - japanese: むかし
+    english: old days; past
+    kanji: 昔
+- category: い-adjectives
+  vocabulary:
+  - japanese: とおい
+    english: far (away)
+    kanji: 遠い
+  - japanese: ひどい
+    english: awful
+    kanji: 酷い（rare）
+- category: な-adjectives
+  vocabulary:
+  - japanese: あんぜん(な)
+    english: safe
+    kanji: 安全
+  - japanese: めちゃくちゃ(な)
+    english: messy; disorganized
+    kanji: 目茶苦茶（rare）
+  - japanese: へん(な)
+    english: strange; unusual
+    kanji: 変
+- category: U-verbs
+  vocabulary:
+  - japanese: おく
+    english: to put; to lay; to place (place に object を)
+    kanji: 置く
+  - japanese: つつむ
+    english: to wrap; to cover (～を)
+    kanji: 包む
+  - japanese: はる
+    english: to post; to stick (place に object を)
+    kanji: 貼る
+  - japanese: やく
+    english: to bake; to burn; to grill (～を)
+    kanji: 焼く
+  - japanese: やる
+    english: to give (to pets, plants, younger siblings, etc.)  (～を)
+    kanji: 遣る（rare）
+  - japanese: ける
+    english: to kick  (～を)
+    kanji: 蹴る（rare）
+  - japanese: なぐる
+    english: to strike; to hit; to punch  (～を)
+    kanji: 殴る
+  - japanese: ふむ
+    english: to step on  (～を)
+    kanji: 踏む
+  - japanese: さす
+    english: to bite  (～を)
+    kanji: 刺す
+  - japanese: ぬすむ
+    english: to steal; to rob (～を)
+    kanji: 盗む
+  - japanese: さわる
+    english: to touch (～に／を)
+    kanji: 触る
+  - japanese: つかまる
+    english: to be arrested; to be caught (～が)
+    kanji: 捕まる
+  - japanese: きがつく
+    english: to notice (～に)
+    kanji: 気が付く
+  - japanese: ふる
+    english: to turn down (somebody); to reject; to jilt (～を)
+    kanji: 振る（rare）
+  - japanese: もんくをいう
+    english: to complain
+    kanji: 文句を言う
+- category: Ru-verbs
+  vocabulary:
+  - japanese: いじめる
+    english: to bully (～を)
+    kanji: 苛める（rare）
+  - japanese: ほめる
+    english: to praise; to say nice things (～を)
+    kanji: 褒める（rare）
+  - japanese: きがえる
+    english: to change clothes
+    kanji: 着替える
+  - japanese: しんじる
+    english: to believe (～を)
+    kanji: 信じる
+  - japanese: ためる
+    english: to save money (～を)
+    kanji: 溜める（rare）
+  - japanese: まちがえる
+    english: to make mistake (～を)
+    kanji: 間違える
+  - japanese: みつける
+    english: to find (～を)
+    kanji: 見つける
+  - japanese: くらべる
+    english: to compare (XとY～を)
+    kanji: 比べる
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: ばかにする
+    english: to insult; to make a fool of… (～を)
+    kanji: 馬鹿にする（rare）
+  - japanese: びっくりする
+    english: to be surprised (～に)
+    kanji: 吃驚する（rare）
+  - japanese: ひるねをする
+    english: to take a nap
+    kanji: 昼寝をする
+  - japanese: れんらくする
+    english: to contact (person に)
+    kanji: 連絡する
+- category: Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: ごせんちゅう
+    english: in the morning
+    kanji: 午前中
+  - japanese: ～こる
+    english: time of …; when…
+    kanji: ''
+  - japanese: すこし
+    english: a little
+    kanji: 少し
+  - japanese: とにかく
+    english: anyhow; anyway
+    kanji: 兎に角（rare）
