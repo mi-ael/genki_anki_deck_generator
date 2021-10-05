@@ -114,11 +114,11 @@ cards:
   - japanese: ひっこす
     english: to move (to another place to live) (～に)
     kanji: 引っ越す
-- category: Ru-verbs
-  vocabulary:
   - japanese: よる
     english: to stop by (place に)
     kanji: 寄る
+- category: Ru-verbs
+  vocabulary:
   - japanese: おくれる
     english: to become late (～に)
     kanji: 遅れる
