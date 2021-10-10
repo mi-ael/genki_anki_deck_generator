@@ -23,12 +23,12 @@ cards:
   - japanese: さとう
     english: sugar
     kanji: 砂糖
-  - japanese: おおきさ
-    english: size
-    kanji: 大きさ
   - japanese: ファイル
     english: (file) folder; portfolio; file
     kanji: ''
+  - japanese: おおきさ
+    english: size
+    kanji: 大きさ
   - japanese: みち
     english: way; road; directions
     kanji: 道
@@ -42,7 +42,7 @@ cards:
   - japanese: だいがくいん
     english: graduate school
     kanji: 大学院
-  - japanese: しょうかくきん
+  - japanese: しょうがくきん
     english: scholarship
     kanji: 奨学金
   - japanese: すいせんじょう
