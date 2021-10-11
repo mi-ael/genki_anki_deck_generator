@@ -47,7 +47,7 @@ cards:
   - japanese: まちがい
     english: mistake
     kanji: 間違い
-  - japanese: せいがく
+  - japanese: せいかく
     english: personality
     kanji: 性格
   - japanese: なまけもの
@@ -86,7 +86,7 @@ cards:
   - japanese: おやすみになる
     english: honorific expression for ねる
     kanji: お休みになる
-  - japanese: ごらんいなる
+  - japanese: ごらんになる
     english: honorific expression for みる
     kanji: ご覧になる
   - japanese: おっしゃる
@@ -106,7 +106,7 @@ cards:
     english: to be decided (～が)
     kanji: 決まる
   - japanese: しりあう
-    english: to get acquanted with (～と)
+    english: to get acquainted with (～と)
     kanji: 知り合う
   - japanese: よぶ
     english: to call (one's name) (～と); to invite (person を event に)
@@ -129,7 +129,7 @@ cards:
     english: to be popular (in terms of romantic interest) (people に)
     kanji: 持てる（rare、モテル also common）
   - japanese: はれる
-    english: to be come sunny
+    english: to become sunny
     kanji: 晴れる
 - category: Irregular_Verbs
   vocabulary:
@@ -168,7 +168,7 @@ cards:
     english: still
     kanji: 未だ（rare）
   - japanese: しょうしょう
-    english: a few second
+    english: a few seconds
     kanji: 少々
   - japanese: ～めいさま
     english: a party of ... People
@@ -177,6 +177,6 @@ cards:
   - japanese: ようこそ
     english: welcome
     kanji: ''
-  - japanese: よろしくあったえください
+  - japanese: よろしくおつたえください
     english: please give my best regards (to…) (～に)
     kanji: よろしくお伝えください

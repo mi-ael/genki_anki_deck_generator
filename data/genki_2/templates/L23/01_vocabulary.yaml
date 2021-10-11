@@ -11,7 +11,7 @@ cards:
   - japanese: くつした
     english: socks
     kanji: 靴下
-  - japanese: ふくる
+  - japanese: ふくろ
     english: sack; plastic/paper bag
     kanji: 袋
     skip_on_semikolon: 2
@@ -35,12 +35,13 @@ cards:
     kanji: 面接
   - japanese: けんこう
     english: health
-    kanji: けんこう
+    kanji: 健康
   - japanese: りそう
     english: ideal
-    kanji: りそう
-  - japanese: るそばん
+    kanji: 理想
+  - japanese: るすばん
     english: looking after a house during someone's absence
+    kanji: 留守番
   - japanese: メッセージ
     english: message; text
     kanji: ''
@@ -79,7 +80,7 @@ cards:
   vocabulary:
   - japanese: あめがやむ
     english: the rain stops
-    kanji: （rare：雨が止む）
+    kanji: 雨が止む
   - japanese: ちがう
     english: to be different; to be wrong (～と)
     kanji: 違う
@@ -88,7 +89,6 @@ cards:
     kanji: 無くなる（rare）
   - japanese: いなくなる
     english: (someone) is gone; to disappear (～が)
-    kanji: （rare）
   - japanese: おせわになる
     english: to be in someone's care (～に)
     kanji: お世話になる
@@ -107,12 +107,12 @@ cards:
     english: to answer (～に)
     kanji: 答える
   - japanese: はなれる
-    english: (something/someonse) seperates; parts from (～と)
+    english: (something/someone) separates; parts from (～と)
     kanji: 離れる
 - category: Irregular_Verbs
   vocabulary:
   - japanese: がっかりする
-    english: to be dissapointed (～に)
+    english: to be disappointed (～に)
     kanji: ガッカリする（hiragana is more common）
   - japanese: がまんする
     english: to be tolerant/patient (～を)
@@ -143,7 +143,6 @@ cards:
   vocabulary:
   - japanese: そんな～
     english: such…; that kind of…
-    kanji: 戻ってくる
   - japanese: ～ために
     english: for…; for the sake of…
     kanji: ''

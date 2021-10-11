@@ -24,7 +24,7 @@ cards:
     english: license
     kanji: 免許
   - japanese: よしゅう
-    english: perperation of a lesson
+    english: preparation of a lesson
     kanji: 予習
   - japanese: ふくしゅう
     english: review of a lesson
@@ -48,7 +48,7 @@ cards:
     english: senior member of a group
     kanji: 先輩
   - japanese: こうはい
-    english: junior member of a groups
+    english: junior member of a group
     kanji: 後輩
   - japanese: ぶか
     english: subordinate
@@ -56,14 +56,14 @@ cards:
   - japanese: うけつけ
     english: reception desk
     kanji: 受付
-  - japanese: しょろい
+  - japanese: しょるい
     english: document
     kanji: 書類
   - japanese: プロジェクト
     english: project
     kanji: ''
   - japanese: かじ
-    english: house work
+    english: housework
     kanji: 家事
   - japanese: ヨーロッパ
     english: Europe
@@ -74,7 +74,7 @@ cards:
   - japanese: じゆう
     english: freedom
     kanji: 自由
-  - japanese: むだｄずかい
+  - japanese: むだづかい
     english: waste (money)
     kanji: 無駄遣い
 - category: い-adjectives
@@ -140,7 +140,7 @@ cards:
 - category: Irregular_Verbs
   vocabulary:
   - japanese: おねがいする
-    english: to requestion help (person に～を)
+    english: to request help (person に～を)
     kanji: お願いする
   - japanese: さんせいする
     english: to agree (～に)
@@ -154,14 +154,14 @@ cards:
   - japanese: てつやする
     english: to stay up all night
     kanji: 徹夜する
-  - japanese: ほにゃくする
+  - japanese: ほんやくする
     english: to translate (source と target に)
     kanji: 翻訳する
 - category: Adverbs_and_Other_Expressions
   vocabulary:
   - japanese: こんなふう
     english: like this
-    kanji: こんな風に（rare）
+    kanji: こんな風（rare）
   - japanese: じゆうに
     english: freely
     kanji: 自由に（rare）

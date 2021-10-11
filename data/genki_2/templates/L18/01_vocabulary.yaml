@@ -108,7 +108,7 @@ cards:
   - japanese: おとす
     english: to drop (something) (~を）
     kanji: 落とす
-  - japanese: おゆかわく
+  - japanese: おゆがわく
     english: water boils
     kanji: お湯が沸く
   - japanese: ころぶ
@@ -154,12 +154,12 @@ cards:
     kanji: 汚れる
 - category: Irregular_Verbs
   vocabulary:
-  - japanese: いますぐ
+  - japanese: ちゅうもんする
     english: to place an order (～を)
     kanji: 注文する
 - category: Adverbs_and_Other_Expressions
   vocabulary:
-  - japanese: いまでに
+  - japanese: いますぐ
     english: right away
     kanji: 今すぐ
   - japanese: ～までに
