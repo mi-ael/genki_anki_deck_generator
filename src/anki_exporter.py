@@ -3,9 +3,9 @@ import genanki
 from typing import List
 
 html_kanji_kana = """
-<font size="6px" color="#C0C0C0"><span class="kanji">{{kanjis}}</span></font>
+<font size="6px" color="#C0C0C0"><span class="japanese">{{kanjis}}</span></font>
 <br>
-<font size="15px"><span class="kana">{{japanese_kana}}</span></font>
+<font size="15px"><span class="japanese">{{japanese_kana}}</span></font>
 <br>
 """
 
@@ -33,7 +33,7 @@ html_kanji_meaning="""
 {{#kanji_meaning}}
 <font size="4px" color="#C0C0C0">Kanji Meaning: </font>
 <br>
-<font size="6px"><span class="text">{{kanjis}}</span></font>
+<font size="6px"><span class="japanese">{{kanjis}}</span></font>
 <br>
 <font size="6px"><span class="text">{{kanji_meaning}}</span></font>
 <br>
@@ -41,11 +41,22 @@ html_kanji_meaning="""
 """
 
 css="""
+
 .card {
-font-family: arial;
+font-family: "Hiragino Kaku Gothic Pro W3";
 font-size: 20px;
 text-align: center;
 }
+
+@font-face {
+  font-family: "Hiragino Kaku Gothic Pro W3";
+  src: url("_hirakakyprow3.otf");
+}
+
+.japanese {
+ font-family: "Hiragino Kaku Gothic Pro W3";
+}
+
 """
 
 
@@ -136,6 +147,9 @@ def export_to_anki(decks: List):
         walk_deck(d, "", anki_model, anki_decks, sound_files)
     
     anki_package = genanki.Package(anki_decks)
+
+    # font
+    sound_files.append("data/fonts/_hirakakyprow3.otf")
 
     anki_package.media_files = sound_files
 

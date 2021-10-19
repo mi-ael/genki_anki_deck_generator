@@ -9,6 +9,7 @@ Genki 2: https://ankiweb.net/shared/info/969261095
 - run: source venv/bin/activate
 - run: pip install -r requirements.txt
 - run: python download_genki_sound_files.py
+- run: python download_fonts.py
 - run: python main.py
 - ...
 - profit
