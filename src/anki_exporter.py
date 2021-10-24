@@ -50,7 +50,7 @@ text-align: center;
 
 @font-face {
   font-family: "Hiragino Kaku Gothic Pro W3";
-  src: url("_hirakakyprow3.otf");
+  src: url("_hirakakyprow3.woff2");
 }
 
 .japanese {
@@ -149,7 +149,7 @@ def export_to_anki(decks: List):
     anki_package = genanki.Package(anki_decks)
 
     # font
-    sound_files.append("data/fonts/_hirakakyprow3.otf")
+    sound_files.append("data/fonts/_hirakakyprow3.woff2")
 
     anki_package.media_files = sound_files
 
