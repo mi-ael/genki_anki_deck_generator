@@ -17,7 +17,7 @@ cards:
   - japanese: しゅしょう
     english: prime minister
     kanji: 首相
-  - japanese: セラリーマン
+  - japanese: サラリーマン
     english: salaryman; office worker
     kanji: ''
   - japanese: きゅうりょう
@@ -69,7 +69,7 @@ cards:
     english: travel agency
     kanji: 旅行会社
   - japanese: ショッピングモール
-    english: shopping mail
+    english: shopping mall
     kanji: ''
   - japanese: りょう
     english: dormitory
@@ -182,7 +182,7 @@ cards:
     kanji: ''
   - japanese: まえ
     english: before…
-    kanji: まえ
+    kanji: 前
   - japanese: やっぱり
     english: after all
     kanji: 矢っ張り(rare)
@@ -192,6 +192,6 @@ cards:
   - japanese: そうか
     english: I see.(casual)
     kanji: 然うか(rare)
-  - japanese: おめだとうございます
+  - japanese: おめでとうございます
     english: Congratulations!
     kanji: お目出度う御座います(rare)
