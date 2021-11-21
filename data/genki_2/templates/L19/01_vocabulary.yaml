@@ -70,7 +70,7 @@ cards:
 - category: U_verbs
   vocabulary:
   - japanese: いらっしゃる
-    english: honorific expression for いく、くる、and いろ
+    english: honorific expression for いく、くる、and いる
     kanji: ''
     skip_on_semikolon: 2
   - japanese: めしあがる
