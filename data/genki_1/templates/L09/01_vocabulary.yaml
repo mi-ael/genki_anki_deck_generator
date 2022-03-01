@@ -159,32 +159,32 @@ cards:
 - category: Numbers
   vocabulary:
   - japanese: ひとつ
-    english: one
+    english: one - counter for small objects
     kanji: 一つ
   - japanese: ふたつ
-    english: two
+    english: two - counter for small objects
     kanji: 二つ
   - japanese: みっつ
-    english: three
+    english: three - counter for small objects
     kanji: 三つ
   - japanese: よっつ
-    english: four
+    english: four - counter for small objects
     kanji: 四つ
   - japanese: いつつ
-    english: five
+    english: five - counter for small objects
     kanji: 五つ
   - japanese: むっつ
-    english: six
+    english: six - counter for small objects
     kanji: 六つ
   - japanese: ななつ
-    english: seven
+    english: seven - counter for small objects
     kanji: 七つ
   - japanese: やっつ
-    english: eight
+    english: eight - counter for small objects
     kanji: 八つ
   - japanese: ここのつ
-    english: nine
+    english: nine - counter for small objects
     kanji: 九つ
   - japanese: とお
-    english: ten
+    english: ten - counter for small objects
     kanji: 十
