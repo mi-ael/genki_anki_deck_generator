@@ -1,8 +1,8 @@
 pydub
 ruamel.yaml
 requests
-#genanki
-git+https://github.com/mi-ael/genanki#egg=genanki
+genanki
+#git+https://github.com/mi-ael/genanki#egg=genanki
 cachier
 num2words
 googledrivedownloader
