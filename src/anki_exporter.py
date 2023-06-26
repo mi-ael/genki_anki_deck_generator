@@ -3,9 +3,9 @@ import genanki
 from typing import List
 
 html_kanji_kana = """
-<font size="6px" color="#C0C0C0"><span class="japanese">{{kanjis}}</span></font>
+<font lang="jp" size="6px" color="#C0C0C0"><span class="japanese">{{kanjis}}</span></font>
 <br>
-<font size="15px"><span class="japanese">{{japanese_kana}}</span></font>
+<font lang="jp" size="15px"><span class="japanese">{{japanese_kana}}</span></font>
 <br>
 """
 
@@ -19,23 +19,23 @@ html_frontside="""
 """
 
 html_meaning="""
-<font size="4px" color="#C0C0C0">Meaning: </font>
+<font lang="jp" size="4px" color="#C0C0C0">Meaning: </font>
 <br>
 """
 
 html_english="""
-<font size="15px"><span class="text">{{english}}</span></font>
+<font lang="jp" size="15px"><span class="text">{{english}}</span></font>
 <br>
 """
 
 html_kanji_meaning="""
 <br>
 {{#kanji_meaning}}
-<font size="4px" color="#C0C0C0">Kanji Meaning: </font>
+<font lang="jp" size="4px" color="#C0C0C0">Kanji Meaning: </font>
 <br>
-<font size="6px"><span class="japanese">{{kanjis}}</span></font>
+<font lang="jp" size="6px"><span class="japanese">{{kanjis}}</span></font>
 <br>
-<font size="6px"><span class="text">{{kanji_meaning}}</span></font>
+<font lang="jp" size="6px"><span class="text">{{kanji_meaning}}</span></font>
 <br>
 {{/kanji_meaning}}
 """
@@ -43,17 +43,18 @@ html_kanji_meaning="""
 css="""
 
 .card {
-font-size: 20px;
-text-align: center;
+  font-family: "Noto Sans Japanese";
+  font-size: 20px;
+  text-align: center;
 }
 
 @font-face {
-  font-family: "Source Han Sans Japanese";
-  src: url("SourceHanSans-Regular.woff2");
+  font-family: "Noto Sans Japanese";
+  src: url("_NotoSansCJKjp-Regular.woff2") format("woff2");
 }
 
 .japanese {
- font-family: "Source Han Sans Japanese";
+ font-family: "Noto Sans Japanese";
 }
 
 """
@@ -148,7 +149,7 @@ def export_to_anki(decks: List):
     anki_package = genanki.Package(anki_decks)
 
     # font
-    sound_files.append("data/fonts/_SourceHanSans-Regular.woff2")
+    sound_files.append("data/fonts/_NotoSansCJKjp-Regular.woff2")
 
     anki_package.media_files = sound_files
 
