@@ -88,7 +88,6 @@ cards:
   vocabulary:
   - japanese: うれしい
     english: glad
-    kanji: 嬉しい
   - japanese: かなしい
     english: sad
     kanji: 悲しい
@@ -103,7 +102,6 @@ cards:
     kanji: 辛い
   - japanese: すごい
     english: incredible; awesome
-    kanji: 凄い(rare)
   - japanese: ちかい
     english: close; near
     kanji: 近い
@@ -117,14 +115,13 @@ cards:
     kanji: 幸せ
   - japanese: だめ(な)
     english: no good
-    kanji: 駄目(rare)
 - category: U-verbs
   vocabulary:
   - japanese: あむ
     english: to knit (~を)
     kanji: 編む
   - japanese: がんばる
-    english: to do one’s best; to try hard
+    english: to do one's best; to try hard
     kanji: 頑張る
   - japanese: なく
     english: to cry
