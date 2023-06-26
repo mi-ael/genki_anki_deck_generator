@@ -43,14 +43,13 @@ html_kanji_meaning="""
 css="""
 
 .card {
-font-family: "Hiragino Kaku Gothic Pro W3";
 font-size: 20px;
 text-align: center;
 }
 
 @font-face {
   font-family: "Hiragino Kaku Gothic Pro W3";
-  src: url("_hirakakyprow3.woff2");
+  src: url("hirakakyprow3.woff2");
 }
 
 .japanese {
