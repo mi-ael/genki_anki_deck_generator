@@ -48,12 +48,12 @@ text-align: center;
 }
 
 @font-face {
-  font-family: "Hiragino Kaku Gothic Pro W3";
-  src: url("hirakakyprow3.woff2");
+  font-family: "Source Han Sans Japanese";
+  src: url("SourceHanSans-Regular.woff2");
 }
 
 .japanese {
- font-family: "Hiragino Kaku Gothic Pro W3";
+ font-family: "Source Han Sans Japanese";
 }
 
 """
@@ -148,7 +148,7 @@ def export_to_anki(decks: List):
     anki_package = genanki.Package(anki_decks)
 
     # font
-    sound_files.append("data/fonts/_hirakakyprow3.woff2")
+    sound_files.append("data/fonts/_SourceHanSans-Regular.woff2")
 
     anki_package.media_files = sound_files
 
