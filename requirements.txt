@@ -5,4 +5,4 @@ genanki
 #git+https://github.com/mi-ael/genanki#egg=genanki
 cachier
 num2words
-googledrivedownloader
+gdown

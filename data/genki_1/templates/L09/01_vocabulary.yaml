@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L09/K09_07.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693904800
 sound_silence_threshold: 600
 cards:
@@ -124,7 +124,7 @@ cards:
   - japanese: でる
     english: (1) to appear; to attend (〜に)<div>(2) to exit (〜を)</div>
     kanji: 出る
-    skip_on_semikolon: 2
+    skip_on_semicolon: 2
 - category: Irregular_Verbs
   vocabulary:
   - japanese: うんどうする

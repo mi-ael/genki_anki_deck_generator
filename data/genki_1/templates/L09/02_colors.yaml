@@ -2,7 +2,7 @@ sound_file:
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693904801
 sound_silence_threshold: 600
 cards:
@@ -10,58 +10,58 @@ cards:
   vocabulary:
   - japanese: くろい
     english: black
-    kanjis: 黒い
+    kanji: 黒い
   - japanese: しろい
     english: white
-    kanjis: 白い
+    kanji: 白い
   - japanese: あかい
     english: red
-    kanjis: 赤い
+    kanji: 赤い
   - japanese: あおい
     english: blue
-    kanjis: 青い
+    kanji: 青い
   - japanese: きいろい
     english: yellow
-    kanjis: 黄色い
+    kanji: 黄色い
   - japanese: ちゃいろい
     english: brown
-    kanjis: 茶色い
+    kanji: 茶色い
   - japanese: みどり／グリーン
     english: green
-    kanjis: 緑
+    kanji: 緑
   - japanese: こんいろ
     english: navy blue
-    kanjis: 紺色
+    kanji: 紺色
   - japanese: みずいろ
     english: light blue
-    kanjis: 水色
+    kanji: 水色
   - japanese: ぎんいろ／シルバー
     english: silver
-    kanjis: 銀色
+    kanji: 銀色
   - japanese: オレンジ
     english: orange
-    kanjis: ''
+    kanji: ''
   - japanese: むらさき
     english: purple
-    kanjis: 紫
+    kanji: 紫
   - japanese: はいいろ／グレー
     english: gray
-    kanjis: 灰色
+    kanji: 灰色
   - japanese: きんいろ／ゴールド
     english: gold
-    kanjis: 金色
+    kanji: 金色
   - japanese: ピンク
     english: pink
-    kanjis: ''
+    kanji: ''
   - japanese: ベージュ
     english: beige
-    kanjis: ''
+    kanji: ''
   - japanese: かおがあおいですね。
     english: You look pale.
-    kanjis: 顔が青いですね。
+    kanji: 顔が青いですね。
   - japanese: しろくろのしゃしん
     english: black and white picture
-    kanjis: 白黒の写真
+    kanji: 白黒の写真
   - japanese: あおしんごう
     english: green light
-    kanjis: 青信号
+    kanji: 青信号

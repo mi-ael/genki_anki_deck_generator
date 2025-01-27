@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L02/K02_05.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693904100
 sound_silence_threshold: 600
 cards:

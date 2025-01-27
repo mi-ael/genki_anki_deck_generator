@@ -11,7 +11,7 @@ yaml_head = """sound_file: {sound_file}
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: {uid}
 sound_silence_threshold: 600
 cards:"""

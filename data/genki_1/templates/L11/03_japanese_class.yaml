@@ -2,7 +2,7 @@ sound_file:
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693905002
 sound_silence_threshold: 600
 cards:
@@ -10,106 +10,106 @@ cards:
   vocabulary:
   - japanese: どちらでもいいです。
     english: Both are fine.
-    kanjis: ''
+    kanji: ''
   - japanese: おなじです。
     english: Same thing.
-    kanjis: 同じです。
+    kanji: 同じです。
   - japanese: だいたいおなじです。
     english: More or less the same.
-    kanjis: だいたい同じです。
+    kanji: だいたい同じです。
   - japanese: ちょっとちがいます。
     english: A little different.
-    kanjis: ちょっと違います。
+    kanji: ちょっと違います。
   - japanese: つかえません。
     english: Can't use it.
-    kanjis: 使えません
+    kanji: 使えません
   - japanese: だめです。
     english: No good.
-    kanjis: ''
+    kanji: ''
   - japanese: てをあげてください。
     english: Raise your hand.
-    kanjis: 手をあげてください。
+    kanji: 手をあげてください。
   - japanese: よんできてください。
     english: Read it before coming to class.
-    kanjis: 読んできてください。
+    kanji: 読んできてください。
   - japanese: しゅくだいをだしてください。
     english: Hand in the homework.
-    kanjis: 宿題を出してください。
+    kanji: 宿題を出してください。
   - japanese: １０ページをひらいてください。
     english: Open the book to page 10.
-    kanjis: １０ページを開いてください。
+    kanji: １０ページを開いてください。
   - japanese: きょうかしょをとじてください。
     english: Close the textbook.
-    kanjis: 教科書を閉じてください。
+    kanji: 教科書を閉じてください。
   - japanese: となりのひとにきいてください。
     english: Ask the person sitting next to you.
-    kanjis: となりの人に聞いてください。
+    kanji: となりの人に聞いてください。
   - japanese: やめてください。
     english: Please stop.
-    kanjis: ''
+    kanji: ''
   - japanese: きょうはこれでおわります。
     english: That's it for today.
-    kanjis: 今日はこれで終わります。
+    kanji: 今日はこれで終わります。
   - japanese: しめきり
     english: deadline
-    kanjis: ''
+    kanji: ''
   - japanese: れんしゅう
     english: exercise
-    kanjis: 練習
+    kanji: 練習
   - japanese: いみ
     english: meaning
-    kanjis: 意味
+    kanji: 意味
   - japanese: はつおん
     english: pronunciation
-    kanjis: 発音
+    kanji: 発音
   - japanese: ぶんぽう
     english: grammar
-    kanjis: 文法
+    kanji: 文法
   - japanese: しつもん
     english: question
-    kanjis: 質問
+    kanji: 質問
   - japanese: こたえ
     english: answer
-    kanjis: 答
+    kanji: 答
   - japanese: れい
     english: example
-    kanjis: 例
+    kanji: 例
   - japanese: かっこ
     english: ( ) (parentheses)
-    kanjis: ''
+    kanji: ''
   - japanese: まる
     english: ○ (correct)
-    kanjis: ''
+    kanji: ''
   - japanese: ばつ
     english: ☓ (wrong)
-    kanjis: ''
+    kanji: ''
   - japanese: くだけたいいかた
     english: colloquial expression
-    kanjis: くだけた言い方
+    kanji: くだけた言い方
   - japanese: かたいいいかた
     english: bookish expression
-    kanjis: かたい言い方
+    kanji: かたい言い方
   - japanese: ていねいないいかた
     english: polite expression
-    kanjis: ていねいな言い方
+    kanji: ていねいな言い方
   - japanese: ほうげん
     english: dialect
-    kanjis: 方言
+    kanji: 方言
   - japanese: きょうつうご
     english: common language
-    kanjis: 共通語
+    kanji: 共通語
   - japanese: たとえば
     english: for example
-    kanjis: ''
+    kanji: ''
   - japanese: ほかに
     english: anything else
-    kanjis: ''
+    kanji: ''
   - japanese: 〜ばん
     english: number ...
     kanji: ''
   - japanese: 〜ぎょうめ
     english: line number ...
-    kanjis: 〜行目
+    kanji: 〜行目
   - japanese: ふたりずつ
     english: two people each
-    kanjis: 二人ずつ
+    kanji: 二人ずつ

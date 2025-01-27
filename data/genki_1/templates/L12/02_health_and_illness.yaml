@@ -2,7 +2,7 @@ sound_file:
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693905101
 sound_silence_threshold: 600
 cards:
@@ -10,91 +10,91 @@ cards:
   vocabulary:
   - japanese: げりです。
     english: I have diarrhea.
-    kanjis: 下痢です。
+    kanji: 下痢です。
   - japanese: べんぴです。
     english: I am constipated.
-    kanjis: 便秘です。
+    kanji: 便秘です。
   - japanese: せいりです。
     english: I have my period.
-    kanjis: 生理です。
+    kanji: 生理です。
   - japanese: かふんしょうです。
     english: I have hay fever.
-    kanjis: 花粉症です。
+    kanji: 花粉症です。
   - japanese: （〜に）アレルギーがあります。
     english: I have an allergy to ...
-    kanjis: ''
+    kanji: ''
   - japanese: むしばがあります。
     english: I have a bad tooth.
-    kanjis: 虫歯があります。
+    kanji: 虫歯があります。
   - japanese: くしゃみがでます。
     english: I sneeze.
-    kanjis: くしゃみが出ます。
+    kanji: くしゃみが出ます。
   - japanese: はなみずがでます。
     english: I have a runny nose.
-    kanjis: 鼻水が出ます。
+    kanji: 鼻水が出ます。
   - japanese: せなかがかゆいです。
     english: My back itches.
-    kanjis: 背中がかゆいです。
+    kanji: 背中がかゆいです。
   - japanese: はっしんがあります。
     english: I have rashes.
-    kanjis: 発疹があります。
+    kanji: 発疹があります。
   - japanese: めまいがします。
     english: I feel dizzy.
-    kanjis: ''
+    kanji: ''
   - japanese: はきました。
     english: I threw up.
-    kanjis: 吐きました。
+    kanji: 吐きました。
   - japanese: きぶんがわるいです。
     english: I am not feeling well.
-    kanjis: 気分が悪いです。
+    kanji: 気分が悪いです。
   - japanese: やけどをしました。
     english: I burned myself.
-    kanjis: ''
+    kanji: ''
   - japanese: あしをこっせつしました。
     english: I broke my leg.
-    kanjis: 足を骨折しました。
+    kanji: 足を骨折しました。
   - japanese: けがをしました。
     english: I hurt myself.
-    kanjis: ''
+    kanji: ''
   - japanese: ないか
     english: physician
-    kanjis: 内科
+    kanji: 内科
   - japanese: ひふか
     english: dermatologist
-    kanjis: 皮膚科
+    kanji: 皮膚科
   - japanese: げか
     english: surgeon
-    kanjis: 外科
+    kanji: 外科
   - japanese: さんふじんか
     english: obsterician and gynecologist
-    kanjis: 産婦人科
+    kanji: 産婦人科
   - japanese: せいけいげか
     english: orthopedic surgeon
-    kanjis: 整形外科
+    kanji: 整形外科
   - japanese: がんか（めいしゃ）
     english: ophthalmologist
-    kanjis: 眼科（目医者）
+    kanji: 眼科（目医者）
   - japanese: しか（はいしゃ）
     english: dentist
-    kanjis: 歯科（歯医者）
+    kanji: 歯科（歯医者）
   - japanese: じびか
     english: otorhinolaryngologist; ENT doctor
-    kanjis: 耳鼻科
+    kanji: 耳鼻科
   - japanese: こうせいぶっしつ
     english: antibiotic
-    kanjis: 抗生物質
+    kanji: 抗生物質
   - japanese: レントゲン
     english: X-ray
-    kanjis: ''
+    kanji: ''
   - japanese: しゅじゅつ
     english: operation
-    kanjis: 手術
+    kanji: 手術
   - japanese: ちゅうしゃ
     english: injection
-    kanjis: 注射
+    kanji: 注射
   - japanese: たいおんけい
     english: thermometer
-    kanjis: 体温計
+    kanji: 体温計
   - japanese: てんてき
     english: intravenous feeding
-    kanjis: 点滴
+    kanji: 点滴

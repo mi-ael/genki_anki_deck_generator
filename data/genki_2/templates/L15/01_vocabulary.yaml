@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L15/K15_07.mp3
 #skip_words: [87]
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693905400
 sound_silence_threshold: 600
 cards:
@@ -126,7 +126,7 @@ cards:
   - japanese: きをつける
     english: to be cautious/careful(〜に)
     kanji: 気をつける
-    skip_on_semikolon: 1
+    skip_on_semicolon: 1
   - japanese: しらべる
     english: to look into (matterを)
     kanji: 調べる
@@ -177,4 +177,4 @@ cards:
   - japanese: たのしみです
     english: cannot wait; look forward to it
     kanji: 楽しみです
-    #skip_on_semikolon: 1
+    #skip_on_semicolon: 1

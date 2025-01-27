@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L05/K05_07.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693904400
 sound_silence_threshold: 600
 cards:
@@ -70,7 +70,7 @@ cards:
   - japanese: さむい
     english: cold (weather - not used for things)
     kanji: 寒い
-    skip_on_semikolon: 2
+    skip_on_semicolon: 2
   - japanese: いそがしい
     english: busy (people/days)
     kanji: 忙しい
@@ -141,7 +141,7 @@ cards:
   - japanese: きく
     english: to listen; to hear (〜を); to ask (<i>person</i>&nbsp;に)
     kanji: 聞く
-    skip_on_semikolon: 0
+    skip_on_semicolon: 0
   - japanese: のる
     english: to ride; to board (〜に)
     kanji: 乗る

@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L23/K23_07.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693906200
 sound_silence_threshold: 600
 cards:
@@ -14,7 +14,7 @@ cards:
   - japanese: ふくろ
     english: sack; plastic/paper bag
     kanji: 袋
-    skip_on_semikolon: 2
+    skip_on_semicolon: 2
   - japanese: ただ
     english: free of charge
     kanji: 只（rare）
@@ -117,7 +117,7 @@ cards:
   - japanese: がまんする
     english: to be tolerant/patient (～を)
     kanji: 我慢する
-    skip_on_semikolon: 1
+    skip_on_semicolon: 1
   - japanese: どうじょうする
     english: to sympathize (～に)
     kanji: 同情する

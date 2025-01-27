@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L01/K01_05.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: false
+skip_on_semicolon: false
 uid: 693904000
 sound_silence_threshold: 1000
 cards:
@@ -113,7 +113,7 @@ cards:
     english: um ...
     kanji: ''
   - japanese: はい
-    english: yes
+    english: yes (formal)
     kanji: ''
   - japanese: そうです
     english: That's right.

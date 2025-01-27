@@ -30,7 +30,7 @@ Genki 2: https://ankiweb.net/shared/info/969261095
 - "sound_file": (string) sound file used for this deck (starts searching in sound/ directory)
 - "skip_on_beginning": (integer) how many words should be skiped at the beginning of the sound file
 - "skip_with_new_category": (boolean) if true skips a word if new category starts
-- "skip_on_semikolon": (boolean) if true skips as many words as there are semikolons in the english translation, after a note
+- "skip_on_semicolon": (boolean) if true skips as many words as there are semicolons in the english translation, after a note
 - "uid": (integer) uniqe id, used for anki (should not be too high)
 - "sound_silence_threshold": (integer) magic number used for splitting genki-audiofiles into many seperate words. (default: 600)
 - "cards": list of categories
