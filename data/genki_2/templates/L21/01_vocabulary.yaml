@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L21/K21_07.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693906000
 sound_silence_threshold: 600
 cards:
@@ -81,7 +81,7 @@ cards:
   - japanese: めちゃくちゃ(な)
     english: messy; disorganized
     kanji: 目茶苦茶（rare）
-    skip_on_semikolon: False
+    skip_on_semicolon: False
   - japanese: へん(な)
     english: strange; unusual
     kanji: 変

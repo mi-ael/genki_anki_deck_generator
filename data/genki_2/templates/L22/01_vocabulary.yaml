@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L22/K22_07.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693906100
 sound_silence_threshold: 600
 cards:
@@ -113,7 +113,7 @@ cards:
   - japanese: ほ（う）っておく
     english: to leave (someone/something) alone; to neglect (～を)
     kanji: 放っておく
-    skip_on_semikolon: 2
+    skip_on_semicolon: 2
   - japanese: まにあう
     english: to be in time  (～に)
     kanji: 間に合う

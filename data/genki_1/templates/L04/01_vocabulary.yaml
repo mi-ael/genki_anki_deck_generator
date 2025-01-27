@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L04/K04_07.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693904300
 sound_silence_threshold: 300
 cards:

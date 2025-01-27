@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L10/K10_05.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693904900
 sound_silence_threshold: 600
 cards:
@@ -125,7 +125,7 @@ cards:
   - japanese: かかる
     english: to take (amount of time/money) (<i>no particle</i>)
     kanji: ''
-    skip_on_semikolon: 1
+    skip_on_semicolon: 1
   - japanese: とまる
     english: to stay (at a hotel, etc.) (〜に)
     kanji: 泊まる
@@ -156,7 +156,7 @@ cards:
   - japanese: どっち／どちら
     english: which
     kanji: ''
-    skip_on_semikolon: 1
+    skip_on_semicolon: 1
   - japanese: はやく
     english: (do something) early; fast
     kanji: 早く／速く
@@ -175,11 +175,11 @@ cards:
   - japanese: 〜しゅうかん
     english: for ... weeks
     kanji: 〜週間
-    skip_on_semikolon: 1
+    skip_on_semicolon: 1
   - japanese: 〜かげつ
     english: for ... months
     kanji: 〜か月
-    skip_on_semikolon: 1
+    skip_on_semicolon: 1
   - japanese: 〜ねん
     english: '... years'
     kanji: 〜年

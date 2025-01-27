@@ -4,33 +4,33 @@ cards:
 - category: counting_people
   vocabulary:
   - japanese: ひとり*
-    english: 1 Person/alone
+    english: one person
     kanji: 一人
   - japanese: ふたり*
-    english: 2 Persons/couple
+    english: two people
     kanji: 二人
   - japanese: さんにん
-    english: 3 Persons
+    english: three people
     kanji: 三人
   - japanese: よにん*
-    english: 4 Persons
+    english: four people
     kanji: 四人
   - japanese: ごにん
-    english: 5 Persons
+    english: five people
     kanji: 五人
   - japanese: ろくにん
-    english: 6 Persons
+    english: six people
     kanji: 六人
-  - japanese: しちにん*・ななにん
-    english: 7 Persons
+  - japanese: しちにん／ななにん
+    english: seven people
     kanji: 七人
   - japanese: はちにん
-    english: 8 Persons
+    english: eight people
     kanji: 八人
   - japanese: きゅうにん
-    english: 9 Persons
+    english: nine people
     kanji: 九人
   - japanese: じゅうにん
-    english: 10 Persons
+    english: ten people
     kanji: 十人
 

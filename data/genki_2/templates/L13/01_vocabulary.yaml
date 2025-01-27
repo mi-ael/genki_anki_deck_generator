@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L13/K13_07.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693905200
 sound_silence_threshold: 600
 cards:
@@ -83,7 +83,7 @@ cards:
   - japanese: やくそく
     english: promise; appointment
     kanji: 約束
-    skip_on_semikolon: false
+    skip_on_semicolon: false
 - category: い-adjectives
   vocabulary:
   - japanese: うれしい

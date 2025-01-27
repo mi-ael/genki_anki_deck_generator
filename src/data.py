@@ -41,7 +41,7 @@ class Deck:
         self.uid: int = None
         self.skip_with_new_category: bool = False
         self.skip_on_beginning: int = 0
-        self.skip_on_semikolon: bool = True
+        self.skip_on_semicolon: bool = True
         self.sound_silence_threshold: int = None
         self.only_japanese: bool = False
 
@@ -95,10 +95,10 @@ class Deck:
             if subtag is not None:
                 card.tags.append(subtag)
             deck.cards.append(card)
-            if "skip_on_semikolon" not in e and deck.skip_on_semikolon or "skip_on_semikolon" in e and (e["skip_on_semikolon"] == True or (type(e["skip_on_semikolon"]) == int and e["skip_on_semikolon"] != 0)):
+            if "skip_on_semicolon" not in e and deck.skip_on_semicolon or "skip_on_semicolon" in e and (e["skip_on_semicolon"] == True or (type(e["skip_on_semicolon"]) == int and e["skip_on_semicolon"] != 0)):
                 skips = card.english.replace("&nbsp;", "").count(';')
-                if "skip_on_semikolon" in e and type(e["skip_on_semikolon"]) == int:
-                    skips = e["skip_on_semikolon"]
+                if "skip_on_semicolon" in e and type(e["skip_on_semicolon"]) == int:
+                    skips = e["skip_on_semicolon"]
                 for _ in range(skips):
                     deck.skip_words.append(skip_index)
                     skip_index = skip_index+1
@@ -119,7 +119,7 @@ class Deck:
         deck.skip_words.extend(range(deck.skip_on_beginning))
         skip_index = deck.skip_on_beginning
         deck.skip_with_new_category = doc.get("skip_with_new_category", True)
-        deck.skip_on_semikolon = doc.get("skip_on_semikolon", True)
+        deck.skip_on_semicolon = doc.get("skip_on_semicolon", True)
         deck.sound_silence_threshold = doc.get("sound_silence_threshold", 600)
         deck.only_japanese = doc.get("only_japanese", False)
         for c in doc["cards"]:

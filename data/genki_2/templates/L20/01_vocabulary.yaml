@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L20/K20_05.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693905900
 sound_silence_threshold: 600
 cards:
@@ -17,7 +17,7 @@ cards:
   - japanese: しゅみ
     english: hobby; pastime
     kanji: 趣味
-    skip_on_semikolon: False
+    skip_on_semicolon: False
   - japanese: つき
     english: moon
     kanji: 月
@@ -48,7 +48,7 @@ cards:
   - japanese: おたく
     english: (someone's) home/house
     kanji: お宅
-    skip_on_semikolon: 1
+    skip_on_semicolon: 1
   - japanese: ～や
     english: …shop
     kanji: ～屋
@@ -121,7 +121,7 @@ cards:
   - japanese: もどる
     english: to return; to come back (～に)
     kanji: 戻る
-    skip_on_semikolon: False
+    skip_on_semicolon: False
 - category: Ru-verbs
   vocabulary:
   - japanese: さしあげる

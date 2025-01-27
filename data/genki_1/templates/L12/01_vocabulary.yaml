@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L12/K12_05.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693905100
 sound_silence_threshold: 600
 cards:
@@ -91,7 +91,7 @@ cards:
   - japanese: せまい
     english: narrow; not spacious
     kanji: 狭い
-    skip_on_semikolon: false
+    skip_on_semicolon: false
   - japanese: ひろい
     english: wide; spacious
     kanji: 広い
@@ -168,7 +168,7 @@ cards:
   - japanese: もうすぐ
     english: very soon; in a few moments/days
     kanji: ''
-    skip_on_semikolon: 2
+    skip_on_semicolon: 2
   - japanese: はじめて
     english: for the first time
     kanji: 初めて

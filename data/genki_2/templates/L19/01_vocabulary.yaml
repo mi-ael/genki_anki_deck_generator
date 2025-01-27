@@ -2,7 +2,7 @@ sound_file: Kaiwa_Bunpo_L19/K19_07.mp3
 skip_words: []
 skip_on_beginning: 2
 skip_with_new_category: true
-skip_on_semikolon: true
+skip_on_semicolon: true
 uid: 693905800
 sound_silence_threshold: 600
 cards:
@@ -61,7 +61,7 @@ cards:
   - japanese: なかがいい
     english: be on good/close terms; to get along well
     kanji: 仲がいい
-    skip_on_semikolon: 2
+    skip_on_semicolon: 2
 - category: な-adjectives
   vocabulary:
   - japanese: まじめ(な)
@@ -72,11 +72,11 @@ cards:
   - japanese: いらっしゃる
     english: honorific expression for いく、くる、and いる
     kanji: ''
-    skip_on_semikolon: 2
+    skip_on_semicolon: 2
   - japanese: めしあがる
     english: honorific expression for たべる、のむ
     kanji: 召し上がる
-    skip_on_semikolon: 1
+    skip_on_semicolon: 1
   - japanese: くださる
     english: honorific expression for くれる
     kanji: 下さる
@@ -98,7 +98,7 @@ cards:
   - japanese: おくる
     english: to walk/drive (someone) (personをplaceまで)
     kanji: 送る
-    skip_on_semikolon: 1
+    skip_on_semicolon: 1
   - japanese: おこる
     english: to get angry
     kanji: 怒る
@@ -136,7 +136,7 @@ cards:
   - japanese: ごちそうする
     english: to treat/invite (someone) to a meal (person に meal を)
     kanji: ご馳走する（rare）
-    skip_on_semikolon: 1
+    skip_on_semicolon: 1
   - japanese: えんりょする
     english: to hold back for the time being; to refrain from
     kanji: 遠慮する
@@ -157,7 +157,7 @@ cards:
   - japanese: それで
     english: then; therefore
     kanji: 其れで（rare）
-    skip_on_semikolon: False
+    skip_on_semicolon: False
   - japanese: なぜ
     english: why (=どうして)
     kanji: 何故（rare）
@@ -173,7 +173,7 @@ cards:
   - japanese: ～めいさま
     english: a party of ... People
     kanji: ～名様
-    skip_on_semikolon: 1
+    skip_on_semicolon: 1
   - japanese: ようこそ
     english: welcome
     kanji: ''
