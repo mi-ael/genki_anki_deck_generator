@@ -14,6 +14,14 @@ Genki 2: https://ankiweb.net/shared/info/969261095
 - ...
 - profit
 
+- ### 2025+ updates
+- You will need to run : python -m pip install googledrivedownloader (install this after activating the venv)
+- Then in the following files makes these changes:
+- **File:** download_genki_sound_files.py and download_fonts.py
+  **Changes:**
+  change line 1: from googledrivedownloader import download_file_from_google_drive
+  Delete any mention of "gdd" from the rest of the scripts
+
 # Project Structure
 - Folders in data/ directory are turned into anki-decks
 - deck generation uses yaml files in templates/ directory
