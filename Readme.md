@@ -1,3 +1,5 @@
+2025 update: I lost interrest for this old project of mine. But from time to time people seem to find this quite helpfull. If you are interrested in taking over this project pm me.
+
 python projekt for extracting vocabulary sounds from official genki audio files and generating anki decks  
 Genki 1: https://ankiweb.net/shared/info/1742947823  
 Genki 2: https://ankiweb.net/shared/info/969261095  
